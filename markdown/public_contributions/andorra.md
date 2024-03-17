@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2024/3/17 1:51 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2024/3/17 10:12 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -198,19 +198,6 @@ There are `328 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/heldermanueltv">
-				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&v=4" width="24" alt="Avatar of heldermanueltv"> heldermanueltv
-			</a><br/>
-			Helder Manuel Torres Vieira
-		</td>
-		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @jesus-gallego-pt<br/></td>
-		<td>No Twitter Username</td>
-		<td>Andorra la Vella</td>
-		<td>464</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
 			<a href="https://github.com/tarasowski">
 				<img src="https://avatars.githubusercontent.com/u/33748291?s=72&u=92ba441944ce75a2c6a5e54d7335536a7eff2dbc&v=4" width="24" alt="Avatar of tarasowski"> tarasowski
 			</a><br/>
@@ -222,7 +209,7 @@ There are `328 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>391</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/GRKdev">
 				<img src="https://avatars.githubusercontent.com/u/119631611?s=72&u=ade1b72f06e3c23c3d6aa5412db5de94af9ef723&v=4" width="24" alt="Avatar of GRKdev"> GRKdev
@@ -235,7 +222,7 @@ There are `328 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/markusand">
 				<img src="https://avatars.githubusercontent.com/u/12972543?s=72&u=aed4176e740476a7fe548a6e3f481bf17fadd16d&v=4" width="24" alt="Avatar of markusand"> markusand
@@ -248,7 +235,7 @@ There are `328 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>
 			<a href="https://github.com/alexmf91">
 				<img src="https://avatars.githubusercontent.com/u/77585600?s=72&u=afba3c56ec3fae3a40a598426eeb73c4d0b9af34&v=4" width="24" alt="Avatar of alexmf91"> alexmf91
@@ -259,6 +246,19 @@ There are `328 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Vilanova i la Geltrú (Barcelona) | Encamp (Andorra)</td>
 		<td>311</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/heldermanueltv">
+				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&v=4" width="24" alt="Avatar of heldermanueltv"> heldermanueltv
+			</a><br/>
+			Helder Manuel Torres Vieira
+		</td>
+		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @jesus-gallego-pt<br/></td>
+		<td>No Twitter Username</td>
+		<td>Andorra la Vella</td>
+		<td>256</td>
 	</tr>
 	<tr>
 		<td>13</td>
