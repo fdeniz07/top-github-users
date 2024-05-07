@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `number of followers` of users in Albania on `2024/5/6 11:17 PM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `number of followers` of users in Albania on `2024/5/7 8:21 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -154,7 +154,7 @@ There are `912 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Loopby </td>
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
-		<td>162</td>
+		<td>163</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `912 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Omrt.tech </td>
 		<td>No Twitter Username</td>
 		<td>Durres, Albania</td>
-		<td>148</td>
+		<td>149</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1394,19 +1394,6 @@ There are `912 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/eltonbasha">
-				<img src="https://avatars.githubusercontent.com/u/29661640?s=72&v=4" width="24" alt="Avatar of eltonbasha"> eltonbasha
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana,Albania</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
 			<a href="https://github.com/klintmane">
 				<img src="https://avatars.githubusercontent.com/u/9338536?s=72&u=96c354934369a6359d403264bf3e80a0fd3fd652&v=4" width="24" alt="Avatar of klintmane"> klintmane
 			</a><br/>
@@ -1415,6 +1402,19 @@ There are `912 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/klintmane">klintmane</a></td>
 		<td>Tirana, Albania</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/eltonbasha">
+				<img src="https://avatars.githubusercontent.com/u/29661640?s=72&v=4" width="24" alt="Avatar of eltonbasha"> eltonbasha
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana,Albania</td>
 		<td>16</td>
 	</tr>
 	<tr>
