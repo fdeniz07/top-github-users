@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/5/11 10:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/5/12 7:12 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -388,7 +388,7 @@ There are `332 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@nibiruchain </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>38</td>
+		<td>39</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -536,6 +536,19 @@ There are `332 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>34</td>
 		<td>
+			<a href="https://github.com/ColColty">
+				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
+			</a><br/>
+			Tomàs Forné Cappeau
+		</td>
+		<td>@withpara  </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
 			<a href="https://github.com/adriaromero">
 				<img src="https://avatars.githubusercontent.com/u/5657335?s=72&u=cac2c5b7ea292b33d5c695d0a96a1530dcc892ea&v=4" width="24" alt="Avatar of adriaromero"> adriaromero
 			</a><br/>
@@ -545,19 +558,6 @@ There are `332 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/adriaromero">adriaromero</a></td>
 		<td>Andorra</td>
 		<td>22</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a href="https://github.com/ColColty">
-				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
-			</a><br/>
-			Tomàs Forné Cappeau
-		</td>
-		<td>@withpara  </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>21</td>
 	</tr>
 	<tr>
 		<td>36</td>
