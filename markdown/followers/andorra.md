@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/6/16 5:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/6/17 3:17 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
-There are `342 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `343 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1303,19 +1303,6 @@ There are `342 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>93</td>
 		<td>
-			<a href="https://github.com/FredericLatour">
-				<img src="https://avatars.githubusercontent.com/u/1407847?s=72&u=e6aca69035a07eb4a5a7175ae88aefb9b4d27857&v=4" width="24" alt="Avatar of FredericLatour"> FredericLatour
-			</a><br/>
-			Frederic
-		</td>
-		<td>Enesys </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
 			<a href="https://github.com/heldermanueltv">
 				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&v=4" width="24" alt="Avatar of heldermanueltv"> heldermanueltv
 			</a><br/>
@@ -1324,6 +1311,19 @@ There are `342 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @jesus-gallego-pt<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/FredericLatour">
+				<img src="https://avatars.githubusercontent.com/u/1407847?s=72&u=e6aca69035a07eb4a5a7175ae88aefb9b4d27857&v=4" width="24" alt="Avatar of FredericLatour"> FredericLatour
+			</a><br/>
+			Frederic
+		</td>
+		<td>Enesys </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>3</td>
 	</tr>
 	<tr>
