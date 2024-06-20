@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenia">
 </a>
 
-The `number of followers` of users in Armenia on `2024/6/19 9:20 PM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
+The `number of followers` of users in Armenia on `2024/6/20 6:23 AM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -167,7 +167,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Hacktech Llc </td>
 		<td><a href="https://twitter.com/tarokavardanyan">tarokavardanyan</a></td>
 		<td>Yerevan</td>
-		<td>494</td>
+		<td>492</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -258,7 +258,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vontanne">vontanne</a></td>
 		<td>Yerevan, Armenia</td>
-		<td>274</td>
+		<td>273</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -518,7 +518,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Ants </td>
 		<td>No Twitter Username</td>
 		<td>Yerevan, Armenia</td>
-		<td>118</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -726,7 +726,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Spacemesh </td>
 		<td>No Twitter Username</td>
 		<td>Yerevan, Armenia</td>
-		<td>92</td>
+		<td>93</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -856,7 +856,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Esterox Llc </td>
 		<td>No Twitter Username</td>
 		<td>Armenia</td>
-		<td>82</td>
+		<td>81</td>
 	</tr>
 	<tr>
 		<td>59</td>
