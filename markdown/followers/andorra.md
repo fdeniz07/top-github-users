@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/7/13 10:14 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/7/13 7:12 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -588,19 +588,6 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/sergiorodenas">
-				<img src="https://avatars.githubusercontent.com/u/2689890?s=72&u=8b1ecae9b4c7386d7c9b571f1929fcddf9b75996&v=4" width="24" alt="Avatar of sergiorodenas"> sergiorodenas
-			</a><br/>
-			Sergio Ródenas
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/s3rg1orodenas">s3rg1orodenas</a></td>
-		<td>Andorra</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/bfcapell">
 				<img src="https://avatars.githubusercontent.com/u/64509?s=72&v=4" width="24" alt="Avatar of bfcapell"> bfcapell
 			</a><br/>
@@ -612,7 +599,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/MichelKansou">
 				<img src="https://avatars.githubusercontent.com/u/15091838?s=72&u=b2832d5806c9161c43d646d87da7a46443eba141&v=4" width="24" alt="Avatar of MichelKansou"> MichelKansou
@@ -625,7 +612,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/pablongo">
 				<img src="https://avatars.githubusercontent.com/u/16439523?s=72&v=4" width="24" alt="Avatar of pablongo"> pablongo
@@ -636,6 +623,19 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>21</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
+			<a href="https://github.com/sergiorodenas">
+				<img src="https://avatars.githubusercontent.com/u/2689890?s=72&u=8b1ecae9b4c7386d7c9b571f1929fcddf9b75996&v=4" width="24" alt="Avatar of sergiorodenas"> sergiorodenas
+			</a><br/>
+			Sergio Ródenas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/s3rg1orodenas">s3rg1orodenas</a></td>
+		<td>Andorra</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>42</td>
