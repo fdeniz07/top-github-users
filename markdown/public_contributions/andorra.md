@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2024/7/15 9:16 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2024/7/15 6:19 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -115,7 +115,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@leather-wallet </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>1825</td>
+		<td>1828</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@minaprotocol </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>807</td>
+		<td>808</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@cosmos @01builders </td>
 		<td><a href="https://twitter.com/facundomedica">facundomedica</a></td>
 		<td>Andorra</td>
-		<td>655</td>
+		<td>658</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -284,7 +284,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
-		<td>220</td>
+		<td>223</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@surrealdb  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>210</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -445,6 +445,19 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/l3wi">
+				<img src="https://avatars.githubusercontent.com/u/1716917?s=72&u=6384487469a80c98506cbeade4b7221057dfb97c&v=4" width="24" alt="Avatar of l3wi"> l3wi
+			</a><br/>
+			Lewis Freiberg
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
+		<td>Andorra</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/sergiorodenas">
 				<img src="https://avatars.githubusercontent.com/u/2689890?s=72&u=8b1ecae9b4c7386d7c9b571f1929fcddf9b75996&v=4" width="24" alt="Avatar of sergiorodenas"> sergiorodenas
 			</a><br/>
@@ -454,19 +467,6 @@ There are `344 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/s3rg1orodenas">s3rg1orodenas</a></td>
 		<td>Andorra</td>
 		<td>98</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/l3wi">
-				<img src="https://avatars.githubusercontent.com/u/1716917?s=72&u=6384487469a80c98506cbeade4b7221057dfb97c&v=4" width="24" alt="Avatar of l3wi"> l3wi
-			</a><br/>
-			Lewis Freiberg
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
-		<td>Andorra</td>
-		<td>95</td>
 	</tr>
 	<tr>
 		<td>29</td>
