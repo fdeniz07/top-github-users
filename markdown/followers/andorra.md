@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/9/8 9:15 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/9/8 6:19 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
-There are `348 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `350 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -271,7 +271,7 @@ There are `348 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Sierra Global Experts </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>74</td>
+		<td>73</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -1563,6 +1563,19 @@ There are `348 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>113</td>
 		<td>
+			<a href="https://github.com/jjfrutos">
+				<img src="https://avatars.githubusercontent.com/u/2398936?s=72&v=4" width="24" alt="Avatar of jjfrutos"> jjfrutos
+			</a><br/>
+			Juan José Frutos
+		</td>
+		<td>Haufe Group </td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Gramenet</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
 			<a href="https://github.com/sginkov">
 				<img src="https://avatars.githubusercontent.com/u/2507390?s=72&u=f721aa79eab067e0303478f1e6054bf2c1bdb326&v=4" width="24" alt="Avatar of sginkov"> sginkov
 			</a><br/>
@@ -1574,7 +1587,7 @@ There are `348 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/sitnesTIC">
 				<img src="https://avatars.githubusercontent.com/u/46478162?s=72&u=d44cbc7329691afbdd1a30c5db80c584a9d0c3e7&v=4" width="24" alt="Avatar of sitnesTIC"> sitnesTIC
@@ -1584,19 +1597,6 @@ There are `348 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/sitnestic">sitnestic</a></td>
 		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/jjfrutos">
-				<img src="https://avatars.githubusercontent.com/u/2398936?s=72&v=4" width="24" alt="Avatar of jjfrutos"> jjfrutos
-			</a><br/>
-			Juan José Frutos
-		</td>
-		<td>Haufe Group </td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Gramenet</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1758,19 +1758,6 @@ There are `348 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>128</td>
 		<td>
-			<a href="https://github.com/MarekPrim">
-				<img src="https://avatars.githubusercontent.com/u/59203712?s=72&u=1b4a111c76475a02a686035569e96c06a9283088&v=4" width="24" alt="Avatar of MarekPrim"> MarekPrim
-			</a><br/>
-			Kilyan Le Gallic
-		</td>
-		<td>Cea Tech Docc/cosy @cosydev<br/></td>
-		<td>No Twitter Username</td>
-		<td>Andorra, La Massana</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
 			<a href="https://github.com/AdrianMastronardi">
 				<img src="https://avatars.githubusercontent.com/u/7809331?s=72&u=4ae4966f1b30a2ce6c19a511d74510afe18c765a&v=4" width="24" alt="Avatar of AdrianMastronardi"> AdrianMastronardi
 			</a><br/>
@@ -1779,6 +1766,19 @@ There are `348 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/MarekPrim">
+				<img src="https://avatars.githubusercontent.com/u/59203712?s=72&u=1b4a111c76475a02a686035569e96c06a9283088&v=4" width="24" alt="Avatar of MarekPrim"> MarekPrim
+			</a><br/>
+			Kilyan Le Gallic
+		</td>
+		<td>Cea Tech Docc/cosy @cosydev<br/></td>
+		<td>No Twitter Username</td>
+		<td>Andorra, La Massana</td>
 		<td>1</td>
 	</tr>
 	<tr>
