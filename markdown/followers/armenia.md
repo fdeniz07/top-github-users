@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenia">
 </a>
 
-The `number of followers` of users in Armenia on `2024/9/8 12:30 PM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
+The `number of followers` of users in Armenia on `2024/9/8 9:18 PM UTC`. This list contains users from `Armenia` and cities `Yerevan` `Gyumri` `Vanadzor` `Vagharshapat` `Abovyan `.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -128,7 +128,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Armenia</td>
-		<td>783</td>
+		<td>787</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -219,7 +219,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Nopcommerce Team </td>
 		<td>No Twitter Username</td>
 		<td>Armenia</td>
-		<td>444</td>
+		<td>445</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -731,19 +731,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>49</td>
 		<td>
-			<a href="https://github.com/g4s8">
-				<img src="https://avatars.githubusercontent.com/u/1524988?s=72&u=69f4f849d8899e6c108f56ee81fdb3ec62a96df9&v=4" width="24" alt="Avatar of g4s8"> g4s8
-			</a><br/>
-			Kirill
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kiryll_che">kiryll_che</a></td>
-		<td>Yerevan, Armenia</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
 			<a href="https://github.com/holikyan">
 				<img src="https://avatars.githubusercontent.com/u/111994421?s=72&u=b2a15a8ea9213554e8ab6c802cc0f15260ed6859&v=4" width="24" alt="Avatar of holikyan"> holikyan
 			</a><br/>
@@ -751,6 +738,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Yerevan, Armenia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/g4s8">
+				<img src="https://avatars.githubusercontent.com/u/1524988?s=72&u=69f4f849d8899e6c108f56ee81fdb3ec62a96df9&v=4" width="24" alt="Avatar of g4s8"> g4s8
+			</a><br/>
+			Kirill
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kiryll_che">kiryll_che</a></td>
 		<td>Yerevan, Armenia</td>
 		<td>99</td>
 	</tr>
@@ -1069,19 +1069,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>75</td>
 		<td>
-			<a href="https://github.com/dima-avdeev-jb">
-				<img src="https://avatars.githubusercontent.com/u/99798741?s=72&u=ec0a325a96be7f8bba7e184d24b6a70dca60f3b7&v=4" width="24" alt="Avatar of dima-avdeev-jb"> dima-avdeev-jb
-			</a><br/>
-			dima.avdeev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Armenia</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>
 			<a href="https://github.com/portasynthinca3">
 				<img src="https://avatars.githubusercontent.com/u/14039901?s=72&u=d4699f211bcf16bafa518c7325984e93c43f1321&v=4" width="24" alt="Avatar of portasynthinca3"> portasynthinca3
 			</a><br/>
@@ -1090,6 +1077,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>@flipperdevices </td>
 		<td>No Twitter Username</td>
 		<td>Yerevan</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
+			<a href="https://github.com/dima-avdeev-jb">
+				<img src="https://avatars.githubusercontent.com/u/99798741?s=72&u=ec0a325a96be7f8bba7e184d24b6a70dca60f3b7&v=4" width="24" alt="Avatar of dima-avdeev-jb"> dima-avdeev-jb
+			</a><br/>
+			dima.avdeev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Armenia</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -1693,6 +1693,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>123</td>
 		<td>
+			<a href="https://github.com/VaheAA">
+				<img src="https://avatars.githubusercontent.com/u/67433655?s=72&u=206c1ba8b320c8e30ac0144c32e3ea8cf99550f5&v=4" width="24" alt="Avatar of VaheAA"> VaheAA
+			</a><br/>
+			Vahe Abovyan
+		</td>
+		<td> Iguan Systems Llc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Armenia</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
 			<a href="https://github.com/VPashkov">
 				<img src="https://avatars.githubusercontent.com/u/1384378?s=72&u=cc6db15b5faf105a71ffc39fb31d25f88809804e&v=4" width="24" alt="Avatar of VPashkov"> VPashkov
 			</a><br/>
@@ -1704,7 +1717,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/ArchieGoodwin">
 				<img src="https://avatars.githubusercontent.com/u/3480566?s=72&v=4" width="24" alt="Avatar of ArchieGoodwin"> ArchieGoodwin
@@ -1717,7 +1730,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/var77">
 				<img src="https://avatars.githubusercontent.com/u/17221195?s=72&u=6182ec534d25d1c9ffe1667bd78ea28fd0eea4c8&v=4" width="24" alt="Avatar of var77"> var77
@@ -1730,7 +1743,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/miladbonakdar">
 				<img src="https://avatars.githubusercontent.com/u/17030910?s=72&u=c28480455d34a99accd384fdb2a407f646d8f9e9&v=4" width="24" alt="Avatar of miladbonakdar"> miladbonakdar
@@ -1740,19 +1753,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Https://hoory.com </td>
 		<td><a href="https://twitter.com/milawd_b">milawd_b</a></td>
 		<td>Yerevan - Armenia</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a href="https://github.com/VaheAA">
-				<img src="https://avatars.githubusercontent.com/u/67433655?s=72&u=206c1ba8b320c8e30ac0144c32e3ea8cf99550f5&v=4" width="24" alt="Avatar of VaheAA"> VaheAA
-			</a><br/>
-			Vahe Abovyan
-		</td>
-		<td> Iguan Systems Llc<br/></td>
-		<td>No Twitter Username</td>
-		<td>Armenia</td>
 		<td>45</td>
 	</tr>
 	<tr>
@@ -3747,6 +3747,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>281</td>
 		<td>
+			<a href="https://github.com/WindowGenerator">
+				<img src="https://avatars.githubusercontent.com/u/41333030?s=72&u=3a6f252088df612350ce84f2d2788ce99e5cee16&v=4" width="24" alt="Avatar of WindowGenerator"> WindowGenerator
+			</a><br/>
+			Sergei Chudov
+		</td>
+		<td>@bostongene </td>
+		<td>No Twitter Username</td>
+		<td>Armenia</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
 			<a href="https://github.com/mherkhachatryan">
 				<img src="https://avatars.githubusercontent.com/u/39911978?s=72&u=cfe579d596c0401daf9e005af8beebc34599a7b7&v=4" width="24" alt="Avatar of mherkhachatryan"> mherkhachatryan
 			</a><br/>
@@ -3758,7 +3771,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/boxfrommars">
 				<img src="https://avatars.githubusercontent.com/u/81930?s=72&v=4" width="24" alt="Avatar of boxfrommars"> boxfrommars
@@ -3771,7 +3784,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/geghamjivanyan">
 				<img src="https://avatars.githubusercontent.com/u/11429021?s=72&u=96644bd4595e2e20d7d31d397c01a96fde3383f6&v=4" width="24" alt="Avatar of geghamjivanyan"> geghamjivanyan
@@ -3784,7 +3797,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/r4rohan">
 				<img src="https://avatars.githubusercontent.com/u/30438229?s=72&u=2590081e2431ed524919c9e9f0b2a7a412990ef9&v=4" width="24" alt="Avatar of r4rohan"> r4rohan
@@ -3797,7 +3810,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/nikarm22">
 				<img src="https://avatars.githubusercontent.com/u/20836844?s=72&u=6917e8e42896ad85072448d02c5eb3ddc176880a&v=4" width="24" alt="Avatar of nikarm22"> nikarm22
@@ -3810,7 +3823,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/Artur93gev">
 				<img src="https://avatars.githubusercontent.com/u/16912166?s=72&v=4" width="24" alt="Avatar of Artur93gev"> Artur93gev
@@ -3823,7 +3836,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/Davit98">
 				<img src="https://avatars.githubusercontent.com/u/21690840?s=72&u=b97d8d7df0c0118e6482481041b720517cefadce&v=4" width="24" alt="Avatar of Davit98"> Davit98
@@ -3836,7 +3849,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/Mesrop">
 				<img src="https://avatars.githubusercontent.com/u/1398736?s=72&u=f9f789b3c68f673c8ec6b3fb2c980d0c42fa5bdf&v=4" width="24" alt="Avatar of Mesrop"> Mesrop
@@ -3849,7 +3862,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/mohammadoftadeh">
 				<img src="https://avatars.githubusercontent.com/u/58717764?s=72&u=a5774c929aa94434ee2d1b0aaf9d0614c51865ff&v=4" width="24" alt="Avatar of mohammadoftadeh"> mohammadoftadeh
@@ -3862,7 +3875,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/sletix">
 				<img src="https://avatars.githubusercontent.com/u/73046?s=72&u=cf55f307907e2196057c241e8410fb1eafd9e6ae&v=4" width="24" alt="Avatar of sletix"> sletix
@@ -3875,7 +3888,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/sabovyan">
 				<img src="https://avatars.githubusercontent.com/u/58337011?s=72&u=df61737e6991cce97cd4ae0d554cc3cc1a910535&v=4" width="24" alt="Avatar of sabovyan"> sabovyan
@@ -3888,7 +3901,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/haron">
 				<img src="https://avatars.githubusercontent.com/u/73594?s=72&v=4" width="24" alt="Avatar of haron"> haron
@@ -3901,7 +3914,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/Ashod">
 				<img src="https://avatars.githubusercontent.com/u/746119?s=72&v=4" width="24" alt="Avatar of Ashod"> Ashod
@@ -3914,7 +3927,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/natamazy">
 				<img src="https://avatars.githubusercontent.com/u/149107676?s=72&u=7061458bdfce04dd8870c940a979742574832671&v=4" width="24" alt="Avatar of natamazy"> natamazy
@@ -3927,7 +3940,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/caflorezvi">
 				<img src="https://avatars.githubusercontent.com/u/70385586?s=72&u=882662f975bfa68ed54162cca9c72e90eb6fca6b&v=4" width="24" alt="Avatar of caflorezvi"> caflorezvi
@@ -3940,7 +3953,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/arsdever">
 				<img src="https://avatars.githubusercontent.com/u/22396275?s=72&u=00289d70889122edeff593d83853446d38d7cd50&v=4" width="24" alt="Avatar of arsdever"> arsdever
@@ -3953,7 +3966,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/KaroMourad">
 				<img src="https://avatars.githubusercontent.com/u/44981312?s=72&u=c0c4de3245287b504e9cb7b244391a247a9d8080&v=4" width="24" alt="Avatar of KaroMourad"> KaroMourad
@@ -3966,7 +3979,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/lnikon">
 				<img src="https://avatars.githubusercontent.com/u/3999323?s=72&u=dfa929bdd1069b1545483106e1367f6219c34b77&v=4" width="24" alt="Avatar of lnikon"> lnikon
@@ -3979,7 +3992,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/vergeev">
 				<img src="https://avatars.githubusercontent.com/u/13587415?s=72&u=fb28608e2693121abfdd37bd16e104bd0a22d271&v=4" width="24" alt="Avatar of vergeev"> vergeev
@@ -3992,7 +4005,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/petermihailov">
 				<img src="https://avatars.githubusercontent.com/u/12611942?s=72&u=19e52159ace955e16c5b88cecba60461b51a0a59&v=4" width="24" alt="Avatar of petermihailov"> petermihailov
@@ -4002,19 +4015,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Armenia, Yerevan</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>301</td>
-		<td>
-			<a href="https://github.com/WindowGenerator">
-				<img src="https://avatars.githubusercontent.com/u/41333030?s=72&u=3a6f252088df612350ce84f2d2788ce99e5cee16&v=4" width="24" alt="Avatar of WindowGenerator"> WindowGenerator
-			</a><br/>
-			Sergei Chudov
-		</td>
-		<td>@bostongene </td>
-		<td>No Twitter Username</td>
-		<td>Armenia</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -4683,6 +4683,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>353</td>
 		<td>
+			<a href="https://github.com/fimak">
+				<img src="https://avatars.githubusercontent.com/u/1921713?s=72&u=90033b8d336e2344db461a32d1096669d9f28f2b&v=4" width="24" alt="Avatar of fimak"> fimak
+			</a><br/>
+			Aleksandr Ufimtsev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Armenia</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>354</td>
+		<td>
 			<a href="https://github.com/AgvanGrigoryan">
 				<img src="https://avatars.githubusercontent.com/u/101641443?s=72&u=6035cce01ef1b1b3a7c86f55d07d975939f8f343&v=4" width="24" alt="Avatar of AgvanGrigoryan"> AgvanGrigoryan
 			</a><br/>
@@ -4694,7 +4707,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/nkruglikov">
 				<img src="https://avatars.githubusercontent.com/u/8327627?s=72&u=dc1b82f5ea070815499366068cb9ceaa628ec790&v=4" width="24" alt="Avatar of nkruglikov"> nkruglikov
@@ -4707,7 +4720,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/sirenescx">
 				<img src="https://avatars.githubusercontent.com/u/47086248?s=72&u=d1d8a47c39db628ff86a3f6f6c8a66f1a2ca2276&v=4" width="24" alt="Avatar of sirenescx"> sirenescx
@@ -4720,7 +4733,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/ditord">
 				<img src="https://avatars.githubusercontent.com/u/1479500?s=72&u=57aa94e061db44c14073e23265ca53e5d8dd36e1&v=4" width="24" alt="Avatar of ditord"> ditord
@@ -4733,7 +4746,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/wawan93">
 				<img src="https://avatars.githubusercontent.com/u/1741716?s=72&u=27806e4332e81b41eb107455c052107f12b2e51f&v=4" width="24" alt="Avatar of wawan93"> wawan93
@@ -4746,7 +4759,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/svkhacha">
 				<img src="https://avatars.githubusercontent.com/u/115194519?s=72&u=3bf7e650e184a2c98c22d4c9cf6cb8e7ed788c3a&v=4" width="24" alt="Avatar of svkhacha"> svkhacha
@@ -4759,7 +4772,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/CrissNamon">
 				<img src="https://avatars.githubusercontent.com/u/22001123?s=72&u=99dd5d0d2e119459e9b8ce482c2ab5163ff73171&v=4" width="24" alt="Avatar of CrissNamon"> CrissNamon
@@ -4772,7 +4785,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/tarvitz">
 				<img src="https://avatars.githubusercontent.com/u/824379?s=72&v=4" width="24" alt="Avatar of tarvitz"> tarvitz
@@ -4785,7 +4798,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/8RockStar8">
 				<img src="https://avatars.githubusercontent.com/u/31365793?s=72&u=9b9e4e776a5b07857df77a9aa302380ff5bded28&v=4" width="24" alt="Avatar of 8RockStar8"> 8RockStar8
@@ -4798,7 +4811,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/frontenddeveloping">
 				<img src="https://avatars.githubusercontent.com/u/2063415?s=72&u=dd70a5da8ddc5a197a2108be1d038780eec5c04b&v=4" width="24" alt="Avatar of frontenddeveloping"> frontenddeveloping
@@ -4811,7 +4824,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/anatolian">
 				<img src="https://avatars.githubusercontent.com/u/10535573?s=72&u=27ea3a31d242097b5c9256a241b2584b3de567c3&v=4" width="24" alt="Avatar of anatolian"> anatolian
@@ -4824,7 +4837,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/se-foster">
 				<img src="https://avatars.githubusercontent.com/u/65450489?s=72&u=7d891825286dcb508b4d8adbd93ebf1a52710573&v=4" width="24" alt="Avatar of se-foster"> se-foster
@@ -4837,7 +4850,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/gutnikov">
 				<img src="https://avatars.githubusercontent.com/u/591657?s=72&u=e964890a0d44699743c5e8bb36af955096c35053&v=4" width="24" alt="Avatar of gutnikov"> gutnikov
@@ -4850,7 +4863,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/Rey8d01">
 				<img src="https://avatars.githubusercontent.com/u/4836190?s=72&u=d7ef8c1c74df5cc245b9885f3808f5a8b8d24cb7&v=4" width="24" alt="Avatar of Rey8d01"> Rey8d01
@@ -4863,7 +4876,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/HakobyanAni">
 				<img src="https://avatars.githubusercontent.com/u/45730967?s=72&u=0cc1249c8bef0596a7a21e6f9abc1c6ed43a87cc&v=4" width="24" alt="Avatar of HakobyanAni"> HakobyanAni
@@ -4876,7 +4889,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/shtigran">
 				<img src="https://avatars.githubusercontent.com/u/24455154?s=72&v=4" width="24" alt="Avatar of shtigran"> shtigran
@@ -4889,7 +4902,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/CindyPotes">
 				<img src="https://avatars.githubusercontent.com/u/36973945?s=72&u=303535d491858d038f6db9b9d524bb3732a20000&v=4" width="24" alt="Avatar of CindyPotes"> CindyPotes
@@ -4902,7 +4915,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/ElizavetaUv">
 				<img src="https://avatars.githubusercontent.com/u/75488565?s=72&u=d200e59cace280549443c38caf4bf69be3d23155&v=4" width="24" alt="Avatar of ElizavetaUv"> ElizavetaUv
@@ -4915,7 +4928,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/vmartirosyan">
 				<img src="https://avatars.githubusercontent.com/u/11453994?s=72&u=d0ddf83076f7d82ed00dd0a0441c107e1bd7ea47&v=4" width="24" alt="Avatar of vmartirosyan"> vmartirosyan
@@ -4928,7 +4941,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/denismosolov">
 				<img src="https://avatars.githubusercontent.com/u/3057626?s=72&u=598aaf47f6f71e190e97244d0c19e64c59e3002f&v=4" width="24" alt="Avatar of denismosolov"> denismosolov
@@ -4941,7 +4954,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/asennikov">
 				<img src="https://avatars.githubusercontent.com/u/1835550?s=72&v=4" width="24" alt="Avatar of asennikov"> asennikov
@@ -4954,7 +4967,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/smirnoffmg">
 				<img src="https://avatars.githubusercontent.com/u/1089507?s=72&u=22225004d2d21ad3168f55a9494e5cc2774c1969&v=4" width="24" alt="Avatar of smirnoffmg"> smirnoffmg
@@ -4967,7 +4980,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/ElKry">
 				<img src="https://avatars.githubusercontent.com/u/11164163?s=72&u=94bc21179ca2c67316ee8e6c7e5a2c07cc6da493&v=4" width="24" alt="Avatar of ElKry"> ElKry
@@ -4980,7 +4993,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/ukorvl">
 				<img src="https://avatars.githubusercontent.com/u/71327746?s=72&u=e58fc500a9e1944c0817a2629071459d2f3fead7&v=4" width="24" alt="Avatar of ukorvl"> ukorvl
@@ -4993,7 +5006,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/KarVarr">
 				<img src="https://avatars.githubusercontent.com/u/103530402?s=72&u=410e8506fe5781536aeb46fb2060c1aacd24a029&v=4" width="24" alt="Avatar of KarVarr"> KarVarr
@@ -5006,7 +5019,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/kotshibroyan">
 				<img src="https://avatars.githubusercontent.com/u/73255865?s=72&u=88c395ea3dcaa1a0722ce4a88625932eb0ea3270&v=4" width="24" alt="Avatar of kotshibroyan"> kotshibroyan
@@ -5019,7 +5032,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/ArgishtiAyvazyan">
 				<img src="https://avatars.githubusercontent.com/u/36134225?s=72&u=be41efc6624f18d948e66738a8dabdf08f0d126e&v=4" width="24" alt="Avatar of ArgishtiAyvazyan"> ArgishtiAyvazyan
@@ -5032,7 +5045,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/KarapetyanSatenik">
 				<img src="https://avatars.githubusercontent.com/u/80393004?s=72&u=ef8bbd3a37051f9006abc2c8a5a319126a47d3de&v=4" width="24" alt="Avatar of KarapetyanSatenik"> KarapetyanSatenik
@@ -5042,19 +5055,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Armenia, Yerevan</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a href="https://github.com/4its">
-				<img src="https://avatars.githubusercontent.com/u/5536992?s=72&u=73f660f5acb49b1863cafe472b630ea71c4ebafe&v=4" width="24" alt="Avatar of 4its"> 4its
-			</a><br/>
-			Goerge Egiazaryan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Republic of Armenia</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -5073,6 +5073,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>383</td>
 		<td>
+			<a href="https://github.com/4its">
+				<img src="https://avatars.githubusercontent.com/u/5536992?s=72&u=73f660f5acb49b1863cafe472b630ea71c4ebafe&v=4" width="24" alt="Avatar of 4its"> 4its
+			</a><br/>
+			Goerge Egiazaryan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Republic of Armenia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
 			<a href="https://github.com/hheghine">
 				<img src="https://avatars.githubusercontent.com/u/119530584?s=72&u=18ba548d6c4a1260a30d6cded3a628b03e3c26f5&v=4" width="24" alt="Avatar of hheghine"> hheghine
 			</a><br/>
@@ -5084,7 +5097,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/sumboid">
 				<img src="https://avatars.githubusercontent.com/u/271486?s=72&v=4" width="24" alt="Avatar of sumboid"> sumboid
@@ -5097,7 +5110,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/levongh">
 				<img src="https://avatars.githubusercontent.com/u/14893358?s=72&u=081f68598098068154b581cf1c8a608cb6f56d09&v=4" width="24" alt="Avatar of levongh"> levongh
@@ -5110,7 +5123,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/OdearOgy">
 				<img src="https://avatars.githubusercontent.com/u/23006209?s=72&u=fbe85c3c03d18b5ac18485697561011646ed992e&v=4" width="24" alt="Avatar of OdearOgy"> OdearOgy
@@ -5123,7 +5136,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/AregGhazaryan">
 				<img src="https://avatars.githubusercontent.com/u/38076644?s=72&u=370f70fcec1d0037074b47798020c784cf10334e&v=4" width="24" alt="Avatar of AregGhazaryan"> AregGhazaryan
@@ -5136,7 +5149,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/annykh">
 				<img src="https://avatars.githubusercontent.com/u/101419541?s=72&u=059ea95d34a02b22ae90e7482f31b14818d48127&v=4" width="24" alt="Avatar of annykh"> annykh
@@ -5144,19 +5157,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 			Anny
 		</td>
 		<td>Cba </td>
-		<td>No Twitter Username</td>
-		<td>Armenia</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/fimak">
-				<img src="https://avatars.githubusercontent.com/u/1921713?s=72&u=90033b8d336e2344db461a32d1096669d9f28f2b&v=4" width="24" alt="Avatar of fimak"> fimak
-			</a><br/>
-			Aleksandr Ufimtsev
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Armenia</td>
 		<td>17</td>
@@ -5775,19 +5775,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>437</td>
 		<td>
-			<a href="https://github.com/GirZ0n">
-				<img src="https://avatars.githubusercontent.com/u/55441714?s=72&u=b3224f8b124abf263abaae7adb8101ff389b24bf&v=4" width="24" alt="Avatar of GirZ0n"> GirZ0n
-			</a><br/>
-			Ilya Vlasov
-		</td>
-		<td>@jetbrains-research </td>
-		<td>No Twitter Username</td>
-		<td>Armenia</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
 			<a href="https://github.com/rubenaprikyan">
 				<img src="https://avatars.githubusercontent.com/u/21033329?s=72&u=5e16b7ed529539492168581b8ee7b2810d5ada59&v=4" width="24" alt="Avatar of rubenaprikyan"> rubenaprikyan
 			</a><br/>
@@ -5796,6 +5783,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Aimstack </td>
 		<td>No Twitter Username</td>
 		<td>Yerevan Armenia</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
+			<a href="https://github.com/GirZ0n">
+				<img src="https://avatars.githubusercontent.com/u/55441714?s=72&u=b3224f8b124abf263abaae7adb8101ff389b24bf&v=4" width="24" alt="Avatar of GirZ0n"> GirZ0n
+			</a><br/>
+			Ilya Vlasov
+		</td>
+		<td>@jetbrains-research </td>
+		<td>No Twitter Username</td>
+		<td>Armenia</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -6932,6 +6932,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>526</td>
 		<td>
+			<a href="https://github.com/grigdav">
+				<img src="https://avatars.githubusercontent.com/u/26548145?s=72&u=520e9732f2ae2c5123be05753871ceb269dcd3f2&v=4" width="24" alt="Avatar of grigdav"> grigdav
+			</a><br/>
+			David
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Armenia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
 			<a href="https://github.com/evgeniy-klemin">
 				<img src="https://avatars.githubusercontent.com/u/1834430?s=72&v=4" width="24" alt="Avatar of evgeniy-klemin"> evgeniy-klemin
 			</a><br/>
@@ -6943,7 +6956,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/YervandAleksanyan">
 				<img src="https://avatars.githubusercontent.com/u/26636011?s=72&u=cc0590610ea516f881c2eeab09069a0f72495c44&v=4" width="24" alt="Avatar of YervandAleksanyan"> YervandAleksanyan
@@ -6956,7 +6969,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/Mezozoysky">
 				<img src="https://avatars.githubusercontent.com/u/893293?s=72&v=4" width="24" alt="Avatar of Mezozoysky"> Mezozoysky
@@ -6969,7 +6982,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/DimaPhil">
 				<img src="https://avatars.githubusercontent.com/u/2098734?s=72&u=c9de1fe675482a8c8e6db41142c2ed1d283f834b&v=4" width="24" alt="Avatar of DimaPhil"> DimaPhil
@@ -6982,7 +6995,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/narekcat">
 				<img src="https://avatars.githubusercontent.com/u/11549629?s=72&u=2669ade4b508a8579e196734dc0c5fda641800ce&v=4" width="24" alt="Avatar of narekcat"> narekcat
@@ -6995,7 +7008,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/dekhanov">
 				<img src="https://avatars.githubusercontent.com/u/2033947?s=72&u=cd9aa9e2c50a7fc869408fcf46d30b6649221ad6&v=4" width="24" alt="Avatar of dekhanov"> dekhanov
@@ -7008,7 +7021,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/quansho">
 				<img src="https://avatars.githubusercontent.com/u/41778292?s=72&u=6009369a50b61eb6d68b8e05225feefeb61cbe62&v=4" width="24" alt="Avatar of quansho"> quansho
@@ -7021,7 +7034,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/ayubov">
 				<img src="https://avatars.githubusercontent.com/u/26591995?s=72&u=f8a30bc43f60a6d48cf2612892c84b4c5c098819&v=4" width="24" alt="Avatar of ayubov"> ayubov
@@ -7031,19 +7044,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yerevan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>534</td>
-		<td>
-			<a href="https://github.com/grigdav">
-				<img src="https://avatars.githubusercontent.com/u/26548145?s=72&u=520e9732f2ae2c5123be05753871ceb269dcd3f2&v=4" width="24" alt="Avatar of grigdav"> grigdav
-			</a><br/>
-			David
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Armenia</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -8349,19 +8349,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>635</td>
 		<td>
-			<a href="https://github.com/andreyoganesyan">
-				<img src="https://avatars.githubusercontent.com/u/22058754?s=72&u=f30059e03d1cf46e6d78b0bc727700bdf1522f93&v=4" width="24" alt="Avatar of andreyoganesyan"> andreyoganesyan
-			</a><br/>
-			Andrey Oganesyan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/an_oganesyan">an_oganesyan</a></td>
-		<td>Yerevan, Armenia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
 			<a href="https://github.com/sakharovde">
 				<img src="https://avatars.githubusercontent.com/u/11212927?s=72&u=4db17dd37566a2056438bf51d6c1a19e247f1b0e&v=4" width="24" alt="Avatar of sakharovde"> sakharovde
 			</a><br/>
@@ -8370,6 +8357,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>Collectly </td>
 		<td>No Twitter Username</td>
 		<td>Yerevan</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
+			<a href="https://github.com/andreyoganesyan">
+				<img src="https://avatars.githubusercontent.com/u/22058754?s=72&u=f30059e03d1cf46e6d78b0bc727700bdf1522f93&v=4" width="24" alt="Avatar of andreyoganesyan"> andreyoganesyan
+			</a><br/>
+			Andrey Oganesyan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/an_oganesyan">an_oganesyan</a></td>
+		<td>Yerevan, Armenia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -8557,6 +8557,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>651</td>
 		<td>
+			<a href="https://github.com/tsepakme">
+				<img src="https://avatars.githubusercontent.com/u/90152813?s=72&v=4" width="24" alt="Avatar of tsepakme"> tsepakme
+			</a><br/>
+			Aiusha Mikhailov
+		</td>
+		<td>Hirschtec Gmbh & Co.<br/>Kg<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Yerevan, Armenia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
 			<a href="https://github.com/Karapetyan011">
 				<img src="https://avatars.githubusercontent.com/u/96440193?s=72&u=714fb20d7a1251e916ed2ae4352c5d0150595bdb&v=4" width="24" alt="Avatar of Karapetyan011"> Karapetyan011
 			</a><br/>
@@ -8568,7 +8581,7 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/cryptexis">
 				<img src="https://avatars.githubusercontent.com/u/1158677?s=72&u=01cffffac3f33dee0622cb3e6cedc16640115ca5&v=4" width="24" alt="Avatar of cryptexis"> cryptexis
@@ -8578,19 +8591,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Armenia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/tsepakme">
-				<img src="https://avatars.githubusercontent.com/u/90152813?s=72&v=4" width="24" alt="Avatar of tsepakme"> tsepakme
-			</a><br/>
-			Aiusha Mikhailov
-		</td>
-		<td>Hirschtec Gmbh & Co.<br/>Kg<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Yerevan, Armenia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -11131,19 +11131,6 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 	<tr>
 		<td>849</td>
 		<td>
-			<a href="https://github.com/luvs">
-				<img src="https://avatars.githubusercontent.com/u/731500?s=72&u=a56940231adb385bf9a0318bcb2d79079e0b2b94&v=4" width="24" alt="Avatar of luvs"> luvs
-			</a><br/>
-			Evgeny Luvsandugar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Armenia, Yerevan</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>850</td>
-		<td>
 			<a href="https://github.com/SarkisKhachatryan">
 				<img src="https://avatars.githubusercontent.com/u/53656092?s=72&u=1c79890e96e9df97a8f06f0ac8cf59682ecda0c3&v=4" width="24" alt="Avatar of SarkisKhachatryan"> SarkisKhachatryan
 			</a><br/>
@@ -11152,6 +11139,19 @@ There are `958 users`  in Armenia. You need at least `7 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Yerevan, Armenia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
+			<a href="https://github.com/luvs">
+				<img src="https://avatars.githubusercontent.com/u/731500?s=72&u=a56940231adb385bf9a0318bcb2d79079e0b2b94&v=4" width="24" alt="Avatar of luvs"> luvs
+			</a><br/>
+			Evgeny Luvsandugar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Armenia, Yerevan</td>
 		<td>8</td>
 	</tr>
 	<tr>
