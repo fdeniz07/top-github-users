@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/9/9 10:14 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/9/10 8:19 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -193,7 +193,7 @@ There are `350 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@tanukilabs </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>89</td>
+		<td>90</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1316,6 +1316,19 @@ There are `350 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>94</td>
 		<td>
+			<a href="https://github.com/heldermanueltv">
+				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&v=4" width="24" alt="Avatar of heldermanueltv"> heldermanueltv
+			</a><br/>
+			Helder Manuel Torres Vieira
+		</td>
+		<td>@innki-tech @elevation-labs-es @kuriosity-hub <br/></td>
+		<td>No Twitter Username</td>
+		<td>Andorra la Vella</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
 			<a href="https://github.com/FredericLatour">
 				<img src="https://avatars.githubusercontent.com/u/1407847?s=72&u=e6aca69035a07eb4a5a7175ae88aefb9b4d27857&v=4" width="24" alt="Avatar of FredericLatour"> FredericLatour
 			</a><br/>
@@ -1324,19 +1337,6 @@ There are `350 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Enesys </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/heldermanueltv">
-				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&v=4" width="24" alt="Avatar of heldermanueltv"> heldermanueltv
-			</a><br/>
-			Helder Manuel Torres Vieira
-		</td>
-		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @jesus-gallego-pt<br/></td>
-		<td>No Twitter Username</td>
-		<td>Andorra la Vella</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -2096,19 +2096,6 @@ There are `350 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>154</td>
 		<td>
-			<a href="https://github.com/agasnikov">
-				<img src="https://avatars.githubusercontent.com/u/7144769?s=72&u=65f171c7691e82a095b0ecafa9b420898dff6abb&v=4" width="24" alt="Avatar of agasnikov"> agasnikov
-			</a><br/>
-			Alexander Gasnikov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>155</td>
-		<td>
 			<a href="https://github.com/mark-laufentac">
 				<img src="https://avatars.githubusercontent.com/u/102256595?s=72&u=147bbc93bfe5fcfbaa2ebe5dfde818f6fa408075&v=4" width="24" alt="Avatar of mark-laufentac"> mark-laufentac
 			</a><br/>
@@ -2117,6 +2104,19 @@ There are `350 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
+			<a href="https://github.com/agasnikov">
+				<img src="https://avatars.githubusercontent.com/u/7144769?s=72&u=65f171c7691e82a095b0ecafa9b420898dff6abb&v=4" width="24" alt="Avatar of agasnikov"> agasnikov
+			</a><br/>
+			Alexander Gasnikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
