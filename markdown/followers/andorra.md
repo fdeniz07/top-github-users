@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/9/12 7:15 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/9/12 4:18 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -1888,19 +1888,6 @@ There are `352 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>138</td>
 		<td>
-			<a href="https://github.com/josepdoriol1">
-				<img src="https://avatars.githubusercontent.com/u/151189454?s=72&v=4" width="24" alt="Avatar of josepdoriol1"> josepdoriol1
-			</a><br/>
-			joseporiolcarne
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/joseporiolcarne">joseporiolcarne</a></td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
 			<a href="https://github.com/polmoya">
 				<img src="https://avatars.githubusercontent.com/u/24393088?s=72&u=0cb424839a0d6d23bb462e0affd564108f8fd245&v=4" width="24" alt="Avatar of polmoya"> polmoya
 			</a><br/>
@@ -1908,6 +1895,19 @@ There are `352 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/josepdoriol1">
+				<img src="https://avatars.githubusercontent.com/u/151189454?s=72&v=4" width="24" alt="Avatar of josepdoriol1"> josepdoriol1
+			</a><br/>
+			joseporiolcarne
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/joseporiolcarne">joseporiolcarne</a></td>
 		<td>Andorra</td>
 		<td>1</td>
 	</tr>
