@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `number of followers` of users in Albania on `2024/9/17 6:24 PM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `number of followers` of users in Albania on `2024/9/18 4:23 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -11027,19 +11027,6 @@ There are `912 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>841</td>
 		<td>
-			<a href="https://github.com/dorian-o">
-				<img src="https://avatars.githubusercontent.com/u/109726624?s=72&u=a43aba2989a5d4519e11b7b5a62366e79898cca1&v=4" width="24" alt="Avatar of dorian-o"> dorian-o
-			</a><br/>
-			Dorian O
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>842</td>
-		<td>
 			<a href="https://github.com/Imperio8">
 				<img src="https://avatars.githubusercontent.com/u/22025062?s=72&v=4" width="24" alt="Avatar of Imperio8"> Imperio8
 			</a><br/>
@@ -11048,6 +11035,19 @@ There are `912 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Ritech </td>
 		<td>No Twitter Username</td>
 		<td>Tirana</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>842</td>
+		<td>
+			<a href="https://github.com/dorian-o">
+				<img src="https://avatars.githubusercontent.com/u/109726624?s=72&u=a43aba2989a5d4519e11b7b5a62366e79898cca1&v=4" width="24" alt="Avatar of dorian-o"> dorian-o
+			</a><br/>
+			Dorian O
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
 		<td>1</td>
 	</tr>
 	<tr>
