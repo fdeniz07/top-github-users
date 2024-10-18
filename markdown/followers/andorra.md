@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/10/18 2:29 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/10/18 11:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -115,7 +115,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Astral Technologies </td>
 		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
 		<td>Les Escaldes, Andorra</td>
-		<td>897</td>
+		<td>898</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Maze </td>
 		<td><a href="https://twitter.com/devictoribero">devictoribero</a></td>
 		<td>Andorra</td>
-		<td>164</td>
+		<td>165</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1928,7 +1928,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>141</td>
 		<td>
 			<a href="https://github.com/OvisWooloo">
-				<img src="https://avatars.githubusercontent.com/u/175656843?s=72&u=b99a4056a4a30124ca8d88e205033bb298a11515&v=4" width="24" alt="Avatar of OvisWooloo"> OvisWooloo
+				<img src="https://avatars.githubusercontent.com/u/175656843?s=72&u=9528d47d51ab9ddce64020dfc47bef41d79c94bd&v=4" width="24" alt="Avatar of OvisWooloo"> OvisWooloo
 			</a><br/>
 			Ovis Wooloo
 		</td>
