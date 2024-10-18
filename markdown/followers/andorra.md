@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/10/17 5:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/10/18 2:29 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -154,7 +154,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Maze </td>
 		<td><a href="https://twitter.com/devictoribero">devictoribero</a></td>
 		<td>Andorra</td>
-		<td>160</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -263,6 +263,19 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/l3wi">
+				<img src="https://avatars.githubusercontent.com/u/1716917?s=72&u=6384487469a80c98506cbeade4b7221057dfb97c&v=4" width="24" alt="Avatar of l3wi"> l3wi
+			</a><br/>
+			Lewis Freiberg
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
+		<td>Andorra</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/madmongo1">
 				<img src="https://avatars.githubusercontent.com/u/5172425?s=72&u=3e70a6b0f3e73acbca12d74eb50d99d53595598f&v=4" width="24" alt="Avatar of madmongo1"> madmongo1
 			</a><br/>
@@ -272,19 +285,6 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>73</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/l3wi">
-				<img src="https://avatars.githubusercontent.com/u/1716917?s=72&u=6384487469a80c98506cbeade4b7221057dfb97c&v=4" width="24" alt="Avatar of l3wi"> l3wi
-			</a><br/>
-			Lewis Freiberg
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
-		<td>Andorra</td>
-		<td>72</td>
 	</tr>
 	<tr>
 		<td>15</td>
