@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/10/20 5:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/10/21 2:30 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -229,7 +229,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>329</td>
-		<td>1329</td>
+		<td>1330</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -326,8 +326,8 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@minaprotocol </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>970</td>
-		<td>1018</td>
+		<td>972</td>
+		<td>1020</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -668,6 +668,20 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/ericfly02">
+				<img src="https://avatars.githubusercontent.com/u/20001491?s=72&u=3e6d71f858a6e887bbdddbe9594ab0f32bfcb214&v=4" width="24" alt="Avatar of ericfly02"> ericfly02
+			</a><br/>
+			EricGd
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>197</td>
+		<td>289</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/cmarfil">
 				<img src="https://avatars.githubusercontent.com/u/798849?s=72&v=4" width="24" alt="Avatar of cmarfil"> cmarfil
 			</a><br/>
@@ -678,20 +692,6 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>0</td>
 		<td>280</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/ericfly02">
-				<img src="https://avatars.githubusercontent.com/u/20001491?s=72&u=3e6d71f858a6e887bbdddbe9594ab0f32bfcb214&v=4" width="24" alt="Avatar of ericfly02"> ericfly02
-			</a><br/>
-			EricGd
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>183</td>
-		<td>275</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -789,7 +789,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>83</td>
-		<td>181</td>
+		<td>185</td>
 	</tr>
 	<tr>
 		<td>50</td>
