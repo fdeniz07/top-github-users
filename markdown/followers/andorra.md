@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/10/22 11:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/10/23 8:07 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -154,7 +154,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Maze </td>
 		<td><a href="https://twitter.com/devictoribero">devictoribero</a></td>
 		<td>Andorra</td>
-		<td>165</td>
+		<td>166</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -1667,12 +1667,12 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>121</td>
 		<td>
-			<a href="https://github.com/Robgher">
-				<img src="https://avatars.githubusercontent.com/u/57107892?s=72&u=e3ef3a77482a063578341c807925eb40c0d6cf05&v=4" width="24" alt="Avatar of Robgher"> Robgher
+			<a href="https://github.com/sginkov">
+				<img src="https://avatars.githubusercontent.com/u/2507390?s=72&u=f721aa79eab067e0303478f1e6054bf2c1bdb326&v=4" width="24" alt="Avatar of sginkov"> sginkov
 			</a><br/>
-			No Name
+			Siarhei Hinkou
 		</td>
-		<td>Bitanube Slu </td>
+		<td>@hinkoulabs </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>2</td>
@@ -1680,12 +1680,12 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>122</td>
 		<td>
-			<a href="https://github.com/sginkov">
-				<img src="https://avatars.githubusercontent.com/u/2507390?s=72&u=f721aa79eab067e0303478f1e6054bf2c1bdb326&v=4" width="24" alt="Avatar of sginkov"> sginkov
+			<a href="https://github.com/Robgher">
+				<img src="https://avatars.githubusercontent.com/u/57107892?s=72&u=e3ef3a77482a063578341c807925eb40c0d6cf05&v=4" width="24" alt="Avatar of Robgher"> Robgher
 			</a><br/>
-			Siarhei Hinkou
+			No Name
 		</td>
-		<td>@hinkoulabs </td>
+		<td>Bitanube Slu </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>2</td>
