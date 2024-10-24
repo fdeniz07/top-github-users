@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/10/24 11:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/10/24 8:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -115,7 +115,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Astral Technologies </td>
 		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
 		<td>Les Escaldes, Andorra</td>
-		<td>901</td>
+		<td>902</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1334,7 +1334,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 			</a><br/>
 			Helder Manuel Torres Vieira
 		</td>
-		<td>@innki-tech @elevation-labs-es @kuriosity-hub @neocampo-corporate<br/></td>
+		<td>@innki-tech @elevation-labs-es @kuriosity-hub </td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
 		<td>3</td>
