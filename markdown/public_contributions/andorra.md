@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2024/10/24 8:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2024/10/25 5:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -141,7 +141,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Barcelona (Spain) | Encamp (Andorra)</td>
-		<td>791</td>
+		<td>794</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -310,7 +310,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>251</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -913,6 +913,19 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>63</td>
 		<td>
+			<a href="https://github.com/mortegaj">
+				<img src="https://avatars.githubusercontent.com/u/16175986?s=72&v=4" width="24" alt="Avatar of mortegaj"> mortegaj
+			</a><br/>
+			Marc Ortega
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td>
 			<a href="https://github.com/blackaichi">
 				<img src="https://avatars.githubusercontent.com/u/29255819?s=72&u=2f11de0e1495bc4e56cae549ff9f41ca3357c576&v=4" width="24" alt="Avatar of blackaichi"> blackaichi
 			</a><br/>
@@ -924,7 +937,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/John-Lluch">
 				<img src="https://avatars.githubusercontent.com/u/1282248?s=72&u=4a8b01e1e09d48cd76e43ed968fce40f3230241b&v=4" width="24" alt="Avatar of John-Lluch"> John-Lluch
@@ -937,7 +950,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/psychedel">
 				<img src="https://avatars.githubusercontent.com/u/13717891?s=72&u=ae3c4abc6caa551c2b85e107bbb1df2c2954a316&v=4" width="24" alt="Avatar of psychedel"> psychedel
@@ -950,7 +963,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/ElDqneil">
 				<img src="https://avatars.githubusercontent.com/u/170444103?s=72&v=4" width="24" alt="Avatar of ElDqneil"> ElDqneil
@@ -960,19 +973,6 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La Massana, Andorra</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/mortegaj">
-				<img src="https://avatars.githubusercontent.com/u/16175986?s=72&v=4" width="24" alt="Avatar of mortegaj"> mortegaj
-			</a><br/>
-			Marc Ortega
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
 		<td>14</td>
 	</tr>
 	<tr>
