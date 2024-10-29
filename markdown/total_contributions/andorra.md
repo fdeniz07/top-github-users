@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/10/28 11:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/10/29 8:07 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -108,20 +108,6 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/pathrom">
-				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
-			</a><br/>
-			Daniel Patón La Rosa - Pathrøm
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>36</td>
-		<td>2550</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
 			<a href="https://github.com/castrolem">
 				<img src="https://avatars.githubusercontent.com/u/1833858?s=72&v=4" width="24" alt="Avatar of castrolem"> castrolem
 			</a><br/>
@@ -134,7 +120,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2547</td>
 	</tr>
 	<tr>
-		<td>3</td>
+		<td>2</td>
 		<td>
 			<a href="https://github.com/alexmf91">
 				<img src="https://avatars.githubusercontent.com/u/77585600?s=72&u=afba3c56ec3fae3a40a598426eeb73c4d0b9af34&v=4" width="24" alt="Avatar of alexmf91"> alexmf91
@@ -146,6 +132,20 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Barcelona (Spain) | Encamp (Andorra)</td>
 		<td>812</td>
 		<td>2545</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/pathrom">
+				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
+			</a><br/>
+			Daniel Patón La Rosa - Pathrøm
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>36</td>
+		<td>2527</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -467,7 +467,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>543</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -677,7 +677,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>300</td>
+		<td>301</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -928,8 +928,8 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Nuvoltic </td>
 		<td><a href="https://twitter.com/JulietaFer74412">JulietaFer74412</a></td>
 		<td>Andorra</td>
-		<td>1</td>
-		<td>89</td>
+		<td>6</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>60</td>
