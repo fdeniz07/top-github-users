@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2024/10/30 11:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2024/10/30 8:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -180,7 +180,7 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@cosmos @01builders </td>
 		<td><a href="https://twitter.com/facundomedica">facundomedica</a></td>
 		<td>Andorra</td>
-		<td>635</td>
+		<td>636</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -952,19 +952,6 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/ElDqneil">
-				<img src="https://avatars.githubusercontent.com/u/170444103?s=72&v=4" width="24" alt="Avatar of ElDqneil"> ElDqneil
-			</a><br/>
-			Daniel Saborido Torres
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Massana, Andorra</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
 			<a href="https://github.com/ColColty">
 				<img src="https://avatars.githubusercontent.com/u/45457264?s=72&u=6e77281836efccc5ac3e9fcfda033c3fae27f0ca&v=4" width="24" alt="Avatar of ColColty"> ColColty
 			</a><br/>
@@ -973,6 +960,19 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@surge-ai  </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/ElDqneil">
+				<img src="https://avatars.githubusercontent.com/u/170444103?s=72&v=4" width="24" alt="Avatar of ElDqneil"> ElDqneil
+			</a><br/>
+			Daniel Saborido Torres
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Massana, Andorra</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -1966,12 +1966,12 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>144</td>
 		<td>
-			<a href="https://github.com/travesset">
-				<img src="https://avatars.githubusercontent.com/u/22983425?s=72&u=741a55f37182c999ca256ef57181308c0074e7bf&v=4" width="24" alt="Avatar of travesset"> travesset
+			<a href="https://github.com/mibock">
+				<img src="https://avatars.githubusercontent.com/u/1178468?s=72&v=4" width="24" alt="Avatar of mibock"> mibock
 			</a><br/>
-			Oriol Travesset-Baro
+			Michael Bock
 		</td>
-		<td>Andorra Research + Innovation<br/></td>
+		<td>Rapid Solucions </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
@@ -1979,12 +1979,12 @@ There are `364 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>145</td>
 		<td>
-			<a href="https://github.com/mibock">
-				<img src="https://avatars.githubusercontent.com/u/1178468?s=72&v=4" width="24" alt="Avatar of mibock"> mibock
+			<a href="https://github.com/travesset">
+				<img src="https://avatars.githubusercontent.com/u/22983425?s=72&u=741a55f37182c999ca256ef57181308c0074e7bf&v=4" width="24" alt="Avatar of travesset"> travesset
 			</a><br/>
-			Michael Bock
+			Oriol Travesset-Baro
 		</td>
-		<td>Rapid Solucions </td>
+		<td>Andorra Research + Innovation<br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
