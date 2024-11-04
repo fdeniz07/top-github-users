@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" alt="Algeria">
 </a>
 
-The `public contributions` by users in Algeria on `2024/11/3 11:11 PM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
+The `public contributions` by users in Algeria on `2024/11/4 8:13 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -128,7 +128,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>@yasserbdj96 </td>
 		<td><a href="https://twitter.com/yasserbdj96">yasserbdj96</a></td>
 		<td>Jijel, Algeria</td>
-		<td>15680</td>
+		<td>15683</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -154,7 +154,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>@automattic  </td>
 		<td><a href="https://twitter.com/riadbenguella">riadbenguella</a></td>
 		<td>Alicante Spain, Oran Algérie</td>
-		<td>2074</td>
+		<td>2075</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -466,7 +466,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Riadh_Gazi">Riadh_Gazi</a></td>
 		<td>Algeria</td>
-		<td>704</td>
+		<td>708</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -804,7 +804,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>Estin </td>
 		<td><a href="https://twitter.com/untitledmaster0">untitledmaster0</a></td>
 		<td>Algeria</td>
-		<td>451</td>
+		<td>452</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -817,7 +817,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>Bouira University </td>
 		<td>No Twitter Username</td>
 		<td>Bouira, Algeria</td>
-		<td>448</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -1207,7 +1207,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>Front-end Developer </td>
 		<td>No Twitter Username</td>
 		<td>Oran, Algeria</td>
-		<td>301</td>
+		<td>303</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1272,7 +1272,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>Dezirum </td>
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
-		<td>276</td>
+		<td>279</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -3058,6 +3058,19 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 	<tr>
 		<td>228</td>
 		<td>
+			<a href="https://github.com/fathiabdelmalek">
+				<img src="https://avatars.githubusercontent.com/u/62630021?s=72&u=a5f784d5ca10f68b19550267037e25640d2cb0e8&v=4" width="24" alt="Avatar of fathiabdelmalek"> fathiabdelmalek
+			</a><br/>
+			Fathi Abdelmalek
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fathiabdelmale1">fathiabdelmale1</a></td>
+		<td>Algeria</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
 			<a href="https://github.com/nxr-deen">
 				<img src="https://avatars.githubusercontent.com/u/121136079?s=72&u=584116f9760ec30ac6553e522af8821e20507ca9&v=4" width="24" alt="Avatar of nxr-deen"> nxr-deen
 			</a><br/>
@@ -3069,7 +3082,7 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/grosvenor01">
 				<img src="https://avatars.githubusercontent.com/u/96534255?s=72&v=4" width="24" alt="Avatar of grosvenor01"> grosvenor01
@@ -3080,19 +3093,6 @@ There are `971 users`  in Algeria. You need at least `13 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
 		<td>102</td>
-	</tr>
-	<tr>
-		<td>230</td>
-		<td>
-			<a href="https://github.com/fathiabdelmalek">
-				<img src="https://avatars.githubusercontent.com/u/62630021?s=72&u=a5f784d5ca10f68b19550267037e25640d2cb0e8&v=4" width="24" alt="Avatar of fathiabdelmalek"> fathiabdelmalek
-			</a><br/>
-			Fathi Abdelmalek
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fathiabdelmale1">fathiabdelmale1</a></td>
-		<td>Algeria</td>
-		<td>101</td>
 	</tr>
 	<tr>
 		<td>231</td>
