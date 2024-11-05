@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/11/4 6:07 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/11/5 3:08 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -115,7 +115,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Astral Technologies </td>
 		<td><a href="https://twitter.com/AlexAltea">AlexAltea</a></td>
 		<td>Les Escaldes, Andorra</td>
-		<td>905</td>
+		<td>904</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -258,7 +258,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@cosmos @01builders </td>
 		<td><a href="https://twitter.com/facundomedica">facundomedica</a></td>
 		<td>Andorra</td>
-		<td>78</td>
+		<td>79</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -440,7 +440,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Barcelona (Spain) | Encamp (Andorra)</td>
-		<td>32</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -1043,19 +1043,6 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/nestorgt">
-				<img src="https://avatars.githubusercontent.com/u/4219449?s=72&u=42d18517791daa0964750965d3b2f00fa233373d&v=4" width="24" alt="Avatar of nestorgt"> nestorgt
-			</a><br/>
-			Nestor Garcia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/kapsule">
 				<img src="https://avatars.githubusercontent.com/u/3903687?s=72&u=043658295eb1d80337b3c5564dacbfbcba7a7a4b&v=4" width="24" alt="Avatar of kapsule"> kapsule
 			</a><br/>
@@ -1064,6 +1051,19 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Dibaia </td>
 		<td>No Twitter Username</td>
 		<td>Escaldes-Engordany, Andorra</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/nestorgt">
+				<img src="https://avatars.githubusercontent.com/u/4219449?s=72&u=42d18517791daa0964750965d3b2f00fa233373d&v=4" width="24" alt="Avatar of nestorgt"> nestorgt
+			</a><br/>
+			Nestor Garcia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>6</td>
 	</tr>
 	<tr>
