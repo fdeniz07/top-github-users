@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `public contributions` and `private contributions` by users in Albania on `2024/11/6 1:14 PM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `public contributions` and `private contributions` by users in Albania on `2024/11/6 10:10 PM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -131,7 +131,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/imagjino">imagjino</a></td>
 		<td>albania</td>
 		<td>0</td>
-		<td>5403</td>
+		<td>5415</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>285</td>
-		<td>3953</td>
+		<td>3959</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -187,7 +187,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirane, Albania</td>
 		<td>212</td>
-		<td>2924</td>
+		<td>2930</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -229,7 +229,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tiranë, Albania</td>
 		<td>0</td>
-		<td>2660</td>
+		<td>2664</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -243,7 +243,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/fitim_vata">fitim_vata</a></td>
 		<td>Tirane, Albania</td>
 		<td>20</td>
-		<td>2636</td>
+		<td>2641</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/oraldo_hysaj">oraldo_hysaj</a></td>
 		<td>Tirana, Albania</td>
 		<td>3</td>
-		<td>2580</td>
+		<td>2592</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -285,7 +285,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirane, Albania</td>
 		<td>14</td>
-		<td>2304</td>
+		<td>2308</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -341,7 +341,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>434</td>
-		<td>2050</td>
+		<td>2064</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -369,7 +369,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>11</td>
-		<td>1948</td>
+		<td>1949</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -425,7 +425,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>0</td>
-		<td>1744</td>
+		<td>1746</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -458,6 +458,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>26</td>
 		<td>
+			<a href="https://github.com/geraldnako">
+				<img src="https://avatars.githubusercontent.com/u/5095859?s=72&u=5d55e2d3cba7118ea5c9a6df77ec78dc1158f000&v=4" width="24" alt="Avatar of geraldnako"> geraldnako
+			</a><br/>
+			Gerald Nako
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/geraldnako">geraldnako</a></td>
+		<td>Tirane, Albania</td>
+		<td>4</td>
+		<td>1645</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
 			<a href="https://github.com/Ferlandoo">
 				<img src="https://avatars.githubusercontent.com/u/136736318?s=72&u=7c6aab363b6eaf0a6b9c55f37c0f694d2a65b112&v=4" width="24" alt="Avatar of Ferlandoo"> Ferlandoo
 			</a><br/>
@@ -468,20 +482,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Albania</td>
 		<td>1642</td>
 		<td>1642</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/geraldnako">
-				<img src="https://avatars.githubusercontent.com/u/5095859?s=72&u=5d55e2d3cba7118ea5c9a6df77ec78dc1158f000&v=4" width="24" alt="Avatar of geraldnako"> geraldnako
-			</a><br/>
-			Gerald Nako
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/geraldnako">geraldnako</a></td>
-		<td>Tirane, Albania</td>
-		<td>4</td>
-		<td>1641</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -495,7 +495,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>0</td>
-		<td>1640</td>
+		<td>1641</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -523,7 +523,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>20</td>
-		<td>1601</td>
+		<td>1604</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -537,7 +537,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>0</td>
-		<td>1489</td>
+		<td>1494</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -551,7 +551,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>51</td>
-		<td>1481</td>
+		<td>1486</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -593,7 +593,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana-AL</td>
 		<td>98</td>
-		<td>1411</td>
+		<td>1413</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -607,7 +607,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>210</td>
-		<td>1366</td>
+		<td>1368</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -640,6 +640,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/rinald-ta">
+				<img src="https://avatars.githubusercontent.com/u/92527147?s=72&u=07c75065fc84b613bc1fca2ae8326546a00b643e&v=4" width="24" alt="Avatar of rinald-ta"> rinald-ta
+			</a><br/>
+			Rinald
+		</td>
+		<td>Teach Away @teachaway <br/></td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>29</td>
+		<td>1250</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/ErgiIT">
 				<img src="https://avatars.githubusercontent.com/u/104865818?s=72&u=887f64196a15bd9a5d5586f9056280fb276a182e&v=4" width="24" alt="Avatar of ErgiIT"> ErgiIT
 			</a><br/>
@@ -650,20 +664,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirana</td>
 		<td>0</td>
 		<td>1245</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/rinald-ta">
-				<img src="https://avatars.githubusercontent.com/u/92527147?s=72&u=07c75065fc84b613bc1fca2ae8326546a00b643e&v=4" width="24" alt="Avatar of rinald-ta"> rinald-ta
-			</a><br/>
-			Rinald
-		</td>
-		<td>Teach Away @teachaway <br/></td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>29</td>
-		<td>1244</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -705,7 +705,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>2</td>
-		<td>1179</td>
+		<td>1180</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -719,7 +719,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/themshllaku">themshllaku</a></td>
 		<td>Albania, EU</td>
 		<td>2</td>
-		<td>1178</td>
+		<td>1180</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -733,7 +733,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania, Tirana</td>
 		<td>2</td>
-		<td>1102</td>
+		<td>1103</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -747,7 +747,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>74</td>
-		<td>1073</td>
+		<td>1081</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -761,7 +761,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>34</td>
-		<td>1063</td>
+		<td>1064</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -803,7 +803,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tiranë, Albania</td>
 		<td>4</td>
-		<td>985</td>
+		<td>989</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -901,7 +901,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>1</td>
-		<td>828</td>
+		<td>837</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -920,6 +920,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>59</td>
 		<td>
+			<a href="https://github.com/sajdoko">
+				<img src="https://avatars.githubusercontent.com/u/8860056?s=72&u=9cfdad849e4fae2d2ead9e10f148c6d4e7b6d792&v=4" width="24" alt="Avatar of sajdoko"> sajdoko
+			</a><br/>
+			Sajmir Doko
+		</td>
+		<td>@localwebsrl @sajdoko @wordpress </td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>27</td>
+		<td>783</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
 			<a href="https://github.com/klendi">
 				<img src="https://avatars.githubusercontent.com/u/20234738?s=72&u=99ae8d0ff1ec450ba7ca9a60a0ac3671546206a3&v=4" width="24" alt="Avatar of klendi"> klendi
 			</a><br/>
@@ -930,20 +944,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirana, Albania</td>
 		<td>12</td>
 		<td>782</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/sajdoko">
-				<img src="https://avatars.githubusercontent.com/u/8860056?s=72&u=9cfdad849e4fae2d2ead9e10f148c6d4e7b6d792&v=4" width="24" alt="Avatar of sajdoko"> sajdoko
-			</a><br/>
-			Sajmir Doko
-		</td>
-		<td>@localwebsrl @sajdoko @wordpress </td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>27</td>
-		<td>781</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -1074,6 +1074,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>70</td>
 		<td>
+			<a href="https://github.com/Gerti23">
+				<img src="https://avatars.githubusercontent.com/u/88035719?s=72&v=4" width="24" alt="Avatar of Gerti23"> Gerti23
+			</a><br/>
+			Gerti Bajo
+		</td>
+		<td>Holberton School Albania </td>
+		<td>No Twitter Username</td>
+		<td>Albania </td>
+		<td>715</td>
+		<td>715</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td>
 			<a href="https://github.com/emilushi">
 				<img src="https://avatars.githubusercontent.com/u/3394343?s=72&v=4" width="24" alt="Avatar of emilushi"> emilushi
 			</a><br/>
@@ -1083,10 +1097,10 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/edMilushi">edMilushi</a></td>
 		<td>Albania</td>
 		<td>0</td>
-		<td>710</td>
+		<td>711</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/elian-ta">
 				<img src="https://avatars.githubusercontent.com/u/67326161?s=72&v=4" width="24" alt="Avatar of elian-ta"> elian-ta
@@ -1100,7 +1114,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>710</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/blerim2">
 				<img src="https://avatars.githubusercontent.com/u/146539802?s=72&u=1a6f6102a9ee30779f7c60ecdd0e57648dfbfffa&v=4" width="24" alt="Avatar of blerim2"> blerim2
@@ -1114,7 +1128,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>707</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/klintmane">
 				<img src="https://avatars.githubusercontent.com/u/9338536?s=72&u=96c354934369a6359d403264bf3e80a0fd3fd652&v=4" width="24" alt="Avatar of klintmane"> klintmane
@@ -1128,20 +1142,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>701</td>
 	</tr>
 	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/Gerti23">
-				<img src="https://avatars.githubusercontent.com/u/88035719?s=72&v=4" width="24" alt="Avatar of Gerti23"> Gerti23
-			</a><br/>
-			Gerti Bajo
-		</td>
-		<td>Holberton School Albania </td>
-		<td>No Twitter Username</td>
-		<td>Albania </td>
-		<td>700</td>
-		<td>700</td>
-	</tr>
-	<tr>
 		<td>75</td>
 		<td>
 			<a href="https://github.com/flakerimi">
@@ -1153,10 +1153,24 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/flakerimi">flakerimi</a></td>
 		<td>Tirane, Albania</td>
 		<td>215</td>
-		<td>677</td>
+		<td>683</td>
 	</tr>
 	<tr>
 		<td>76</td>
+		<td>
+			<a href="https://github.com/mikelekodra94">
+				<img src="https://avatars.githubusercontent.com/u/29230545?s=72&u=5381622df7150014de39b7716797ff1ca94b84b3&v=4" width="24" alt="Avatar of mikelekodra94"> mikelekodra94
+			</a><br/>
+			Mikele Kodra
+		</td>
+		<td>Career.io </td>
+		<td>No Twitter Username</td>
+		<td>Tirane, Albania</td>
+		<td>0</td>
+		<td>676</td>
+	</tr>
+	<tr>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/kaltramuho">
 				<img src="https://avatars.githubusercontent.com/u/150854819?s=72&u=d5e3b5dc9f0a2dc739cffd0cf737c6e1d9adb466&v=4" width="24" alt="Avatar of kaltramuho"> kaltramuho
@@ -1170,7 +1184,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>676</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/ani12321">
 				<img src="https://avatars.githubusercontent.com/u/3965508?s=72&u=cf3080931822f4a10d0b8d31f39157f43e72e15b&v=4" width="24" alt="Avatar of ani12321"> ani12321
@@ -1181,10 +1195,10 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirane, Albania</td>
 		<td>1</td>
-		<td>673</td>
+		<td>675</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/jouleka">
 				<img src="https://avatars.githubusercontent.com/u/58989038?s=72&u=887f6986b45701015c37ba7425629af1e11a8ae8&v=4" width="24" alt="Avatar of jouleka"> jouleka
@@ -1196,20 +1210,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirana, Albania</td>
 		<td>4</td>
 		<td>673</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/mikelekodra94">
-				<img src="https://avatars.githubusercontent.com/u/29230545?s=72&u=5381622df7150014de39b7716797ff1ca94b84b3&v=4" width="24" alt="Avatar of mikelekodra94"> mikelekodra94
-			</a><br/>
-			Mikele Kodra
-		</td>
-		<td>Career.io </td>
-		<td>No Twitter Username</td>
-		<td>Tirane, Albania</td>
-		<td>0</td>
-		<td>671</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1236,8 +1236,8 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tirana</td>
-		<td>197</td>
-		<td>631</td>
+		<td>200</td>
+		<td>634</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1292,8 +1292,8 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Albania, Tirana</td>
-		<td>600</td>
-		<td>600</td>
+		<td>603</td>
+		<td>603</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1363,7 +1363,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>15</td>
-		<td>567</td>
+		<td>569</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1489,7 +1489,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>7</td>
-		<td>492</td>
+		<td>494</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1531,10 +1531,24 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>0</td>
-		<td>485</td>
+		<td>486</td>
 	</tr>
 	<tr>
 		<td>103</td>
+		<td>
+			<a href="https://github.com/eltonbasha">
+				<img src="https://avatars.githubusercontent.com/u/29661640?s=72&v=4" width="24" alt="Avatar of eltonbasha"> eltonbasha
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana,Albania</td>
+		<td>0</td>
+		<td>482</td>
+	</tr>
+	<tr>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/elisvathi">
 				<img src="https://avatars.githubusercontent.com/u/20973113?s=72&u=be334fdd2f3a5bcd64ec4affa695a1a7835af3ab&v=4" width="24" alt="Avatar of elisvathi"> elisvathi
@@ -1545,10 +1559,10 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>3</td>
-		<td>476</td>
+		<td>477</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/Korabi123">
 				<img src="https://avatars.githubusercontent.com/u/95239172?s=72&u=b91184cbc20fb2efbc692df68db99da0c6ff2db8&v=4" width="24" alt="Avatar of Korabi123"> Korabi123
@@ -1562,20 +1576,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>474</td>
 	</tr>
 	<tr>
-		<td>105</td>
-		<td>
-			<a href="https://github.com/eltonbasha">
-				<img src="https://avatars.githubusercontent.com/u/29661640?s=72&v=4" width="24" alt="Avatar of eltonbasha"> eltonbasha
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana,Albania</td>
-		<td>0</td>
-		<td>473</td>
-	</tr>
-	<tr>
 		<td>106</td>
 		<td>
 			<a href="https://github.com/albinaboshku">
@@ -1587,7 +1587,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana , Albania</td>
 		<td>11</td>
-		<td>463</td>
+		<td>468</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1601,7 +1601,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/erioncuni">erioncuni</a></td>
 		<td>Tirana</td>
 		<td>2</td>
-		<td>457</td>
+		<td>462</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1614,8 +1614,8 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania </td>
-		<td>344</td>
-		<td>455</td>
+		<td>346</td>
+		<td>457</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1643,7 +1643,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/ArbenKryemadhi">ArbenKryemadhi</a></td>
 		<td>Tirana, Albania</td>
 		<td>64</td>
-		<td>441</td>
+		<td>444</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1825,7 +1825,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>3</td>
-		<td>369</td>
+		<td>371</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -2012,6 +2012,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>137</td>
 		<td>
+			<a href="https://github.com/reinaldlicaj">
+				<img src="https://avatars.githubusercontent.com/u/64953009?s=72&u=2d39a0167577b90f0603c545e42d29e863cde438&v=4" width="24" alt="Avatar of reinaldlicaj"> reinaldlicaj
+			</a><br/>
+			Reinald Licaj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>0</td>
+		<td>309</td>
+	</tr>
+	<tr>
+		<td>138</td>
+		<td>
 			<a href="https://github.com/kamberpeka">
 				<img src="https://avatars.githubusercontent.com/u/16142760?s=72&u=70ec59a0f3429022800a6026ba094fcf5c871d1c&v=4" width="24" alt="Avatar of kamberpeka"> kamberpeka
 			</a><br/>
@@ -2022,20 +2036,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Albania</td>
 		<td>4</td>
 		<td>308</td>
-	</tr>
-	<tr>
-		<td>138</td>
-		<td>
-			<a href="https://github.com/reinaldlicaj">
-				<img src="https://avatars.githubusercontent.com/u/64953009?s=72&u=2d39a0167577b90f0603c545e42d29e863cde438&v=4" width="24" alt="Avatar of reinaldlicaj"> reinaldlicaj
-			</a><br/>
-			Reinald Licaj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>0</td>
-		<td>306</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2054,6 +2054,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>140</td>
 		<td>
+			<a href="https://github.com/kostandinang">
+				<img src="https://avatars.githubusercontent.com/u/3462436?s=72&u=651a5ebc9552eb9e831c250e8cd04282a120def0&v=4" width="24" alt="Avatar of kostandinang"> kostandinang
+			</a><br/>
+			Kostandin Angjellari
+		</td>
+		<td>@trustlayer  </td>
+		<td><a href="https://twitter.com/kostandinang">kostandinang</a></td>
+		<td>Tirana</td>
+		<td>22</td>
+		<td>303</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
 			<a href="https://github.com/cakajervisa">
 				<img src="https://avatars.githubusercontent.com/u/48954492?s=72&u=b602bdf5f1cdfd3762462f64e73b77358c7dc4aa&v=4" width="24" alt="Avatar of cakajervisa"> cakajervisa
 			</a><br/>
@@ -2066,7 +2080,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>301</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/malforsaja">
 				<img src="https://avatars.githubusercontent.com/u/20798247?s=72&u=3ed1166547abad87554347afd746335f7bbbfc89&v=4" width="24" alt="Avatar of malforsaja"> malforsaja
@@ -2078,20 +2092,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirane, Albania</td>
 		<td>300</td>
 		<td>300</td>
-	</tr>
-	<tr>
-		<td>142</td>
-		<td>
-			<a href="https://github.com/kostandinang">
-				<img src="https://avatars.githubusercontent.com/u/3462436?s=72&u=651a5ebc9552eb9e831c250e8cd04282a120def0&v=4" width="24" alt="Avatar of kostandinang"> kostandinang
-			</a><br/>
-			Kostandin Angjellari
-		</td>
-		<td>@trustlayer  </td>
-		<td><a href="https://twitter.com/kostandinang">kostandinang</a></td>
-		<td>Tirana</td>
-		<td>22</td>
-		<td>297</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2152,6 +2152,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>147</td>
 		<td>
+			<a href="https://github.com/xharauenea">
+				<img src="https://avatars.githubusercontent.com/u/95291297?s=72&u=c814b8c66a7679d377951ec15fe223670b8433c9&v=4" width="24" alt="Avatar of xharauenea"> xharauenea
+			</a><br/>
+			Enea Xharau
+		</td>
+		<td>Ritech International Ag </td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>5</td>
+		<td>281</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
 			<a href="https://github.com/EraldCaka">
 				<img src="https://avatars.githubusercontent.com/u/96385473?s=72&u=0eaf2009e51bd8b770b17ac083291a27c3a7b224&v=4" width="24" alt="Avatar of EraldCaka"> EraldCaka
 			</a><br/>
@@ -2164,7 +2178,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/aziflaj">
 				<img src="https://avatars.githubusercontent.com/u/5219775?s=72&u=950cd9ac64caee20c96df6805938ae55739363a3&v=4" width="24" alt="Avatar of aziflaj"> aziflaj
@@ -2178,7 +2192,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/CelaFlori">
 				<img src="https://avatars.githubusercontent.com/u/115738300?s=72&u=c43e6658a83b8bbd982f8609fc23693c75f87883&v=4" width="24" alt="Avatar of CelaFlori"> CelaFlori
@@ -2192,7 +2206,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>277</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/albanafmeti">
 				<img src="https://avatars.githubusercontent.com/u/11160896?s=72&u=a6fc86d6447ab198d69dc4eacfb0c9bd582d02c7&v=4" width="24" alt="Avatar of albanafmeti"> albanafmeti
@@ -2203,20 +2217,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>0</td>
-		<td>276</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/xharauenea">
-				<img src="https://avatars.githubusercontent.com/u/95291297?s=72&u=c814b8c66a7679d377951ec15fe223670b8433c9&v=4" width="24" alt="Avatar of xharauenea"> xharauenea
-			</a><br/>
-			Enea Xharau
-		</td>
-		<td>Ritech International Ag </td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>5</td>
 		<td>276</td>
 	</tr>
 	<tr>
@@ -2399,7 +2399,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/dbaboci">dbaboci</a></td>
 		<td>Tirana, Albania</td>
 		<td>12</td>
-		<td>235</td>
+		<td>236</td>
 	</tr>
 	<tr>
 		<td>165</td>
@@ -2432,16 +2432,16 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>167</td>
 		<td>
-			<a href="https://github.com/edisonneza">
-				<img src="https://avatars.githubusercontent.com/u/21251453?s=72&u=01b85152a84b5c283b1ee03072ee80b25a5ad357&v=4" width="24" alt="Avatar of edisonneza"> edisonneza
+			<a href="https://github.com/reibengu">
+				<img src="https://avatars.githubusercontent.com/u/4273878?s=72&v=4" width="24" alt="Avatar of reibengu"> reibengu
 			</a><br/>
-			Edison Neza
+			Rei Bengu
 		</td>
-		<td>Vivido Software </td>
-		<td><a href="https://twitter.com/edisonneza">edisonneza</a></td>
-		<td>Durres, Albania</td>
-		<td>7</td>
-		<td>228</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>2</td>
+		<td>229</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2454,36 +2454,36 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Optima Albania </td>
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
-		<td>182</td>
-		<td>227</td>
+		<td>184</td>
+		<td>229</td>
 	</tr>
 	<tr>
 		<td>169</td>
 		<td>
-			<a href="https://github.com/reibengu">
-				<img src="https://avatars.githubusercontent.com/u/4273878?s=72&v=4" width="24" alt="Avatar of reibengu"> reibengu
+			<a href="https://github.com/edisonneza">
+				<img src="https://avatars.githubusercontent.com/u/21251453?s=72&u=01b85152a84b5c283b1ee03072ee80b25a5ad357&v=4" width="24" alt="Avatar of edisonneza"> edisonneza
 			</a><br/>
-			Rei Bengu
+			Edison Neza
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>2</td>
-		<td>224</td>
+		<td>Vivido Software </td>
+		<td><a href="https://twitter.com/edisonneza">edisonneza</a></td>
+		<td>Durres, Albania</td>
+		<td>7</td>
+		<td>228</td>
 	</tr>
 	<tr>
 		<td>170</td>
 		<td>
-			<a href="https://github.com/RediIbra">
-				<img src="https://avatars.githubusercontent.com/u/51862776?s=72&u=7be1d42ebfdd7a089cc87052137ade6996ac71eb&v=4" width="24" alt="Avatar of RediIbra"> RediIbra
+			<a href="https://github.com/denim02">
+				<img src="https://avatars.githubusercontent.com/u/104695826?s=72&u=0f70f27a635c36db9dcea174c20752da26ed6ab8&v=4" width="24" alt="Avatar of denim02"> denim02
 			</a><br/>
-			Redi
+			Deni
 		</td>
-		<td>Teamsystem </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tirana/Albania</td>
-		<td>143</td>
-		<td>224</td>
+		<td>Tirana, Albania</td>
+		<td>44</td>
+		<td>227</td>
 	</tr>
 	<tr>
 		<td>171</td>
@@ -2497,10 +2497,24 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>1</td>
-		<td>224</td>
+		<td>226</td>
 	</tr>
 	<tr>
 		<td>172</td>
+		<td>
+			<a href="https://github.com/RediIbra">
+				<img src="https://avatars.githubusercontent.com/u/51862776?s=72&u=7be1d42ebfdd7a089cc87052137ade6996ac71eb&v=4" width="24" alt="Avatar of RediIbra"> RediIbra
+			</a><br/>
+			Redi
+		</td>
+		<td>Teamsystem </td>
+		<td>No Twitter Username</td>
+		<td>Tirana/Albania</td>
+		<td>143</td>
+		<td>224</td>
+	</tr>
+	<tr>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/FjorelaV">
 				<img src="https://avatars.githubusercontent.com/u/25348342?s=72&u=cb4397fd7807a9586c74dd4231de60682a6e90c1&v=4" width="24" alt="Avatar of FjorelaV"> FjorelaV
@@ -2514,20 +2528,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/denim02">
-				<img src="https://avatars.githubusercontent.com/u/104695826?s=72&u=0f70f27a635c36db9dcea174c20752da26ed6ab8&v=4" width="24" alt="Avatar of denim02"> denim02
-			</a><br/>
-			Deni
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>44</td>
-		<td>219</td>
-	</tr>
-	<tr>
 		<td>174</td>
 		<td>
 			<a href="https://github.com/AleksanderDishnica">
@@ -2539,7 +2539,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>21</td>
-		<td>218</td>
+		<td>219</td>
 	</tr>
 	<tr>
 		<td>175</td>
@@ -2609,7 +2609,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>56</td>
-		<td>204</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>180</td>
@@ -2740,16 +2740,16 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>189</td>
 		<td>
-			<a href="https://github.com/theringsofsaturn">
-				<img src="https://avatars.githubusercontent.com/u/60050952?s=72&u=f709eae575b5111efe85d5d04aba56d02425f3c8&v=4" width="24" alt="Avatar of theringsofsaturn"> theringsofsaturn
+			<a href="https://github.com/hoxhaerin">
+				<img src="https://avatars.githubusercontent.com/u/29415274?s=72&u=cc398d84a82ca7d679af69fafa5dea89a3e5cca1&v=4" width="24" alt="Avatar of hoxhaerin"> hoxhaerin
 			</a><br/>
-			Emilian Kasemi
+			Erin Hoxha
 		</td>
-		<td>Omrt.tech </td>
-		<td>No Twitter Username</td>
-		<td>Durres, Albania</td>
-		<td>78</td>
-		<td>178</td>
+		<td>@sigal-uniqa </td>
+		<td><a href="https://twitter.com/hoxha_erin">hoxha_erin</a></td>
+		<td>Albania</td>
+		<td>0</td>
+		<td>180</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -2763,21 +2763,21 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>0</td>
-		<td>178</td>
+		<td>179</td>
 	</tr>
 	<tr>
 		<td>191</td>
 		<td>
-			<a href="https://github.com/hoxhaerin">
-				<img src="https://avatars.githubusercontent.com/u/29415274?s=72&u=cc398d84a82ca7d679af69fafa5dea89a3e5cca1&v=4" width="24" alt="Avatar of hoxhaerin"> hoxhaerin
+			<a href="https://github.com/theringsofsaturn">
+				<img src="https://avatars.githubusercontent.com/u/60050952?s=72&u=f709eae575b5111efe85d5d04aba56d02425f3c8&v=4" width="24" alt="Avatar of theringsofsaturn"> theringsofsaturn
 			</a><br/>
-			Erin Hoxha
+			Emilian Kasemi
 		</td>
-		<td>@sigal-uniqa </td>
-		<td><a href="https://twitter.com/hoxha_erin">hoxha_erin</a></td>
-		<td>Albania</td>
-		<td>0</td>
-		<td>176</td>
+		<td>Omrt.tech </td>
+		<td>No Twitter Username</td>
+		<td>Durres, Albania</td>
+		<td>78</td>
+		<td>178</td>
 	</tr>
 	<tr>
 		<td>192</td>
@@ -2852,20 +2852,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>197</td>
 		<td>
-			<a href="https://github.com/redianmarku">
-				<img src="https://avatars.githubusercontent.com/u/42848358?s=72&u=75f83981fc22729a2040cc349cc307d3c16ff116&v=4" width="24" alt="Avatar of redianmarku"> redianmarku
-			</a><br/>
-			TopNotch Programmer
-		</td>
-		<td>Topnotch Programmer </td>
-		<td><a href="https://twitter.com/redian_marku">redian_marku</a></td>
-		<td>Albania</td>
-		<td>169</td>
-		<td>169</td>
-	</tr>
-	<tr>
-		<td>198</td>
-		<td>
 			<a href="https://github.com/NensiSkenderi">
 				<img src="https://avatars.githubusercontent.com/u/17916428?s=72&u=154581c09631438c96a9d92c0340b48b2b9ed9cc&v=4" width="24" alt="Avatar of NensiSkenderi"> NensiSkenderi
 			</a><br/>
@@ -2875,6 +2861,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>3</td>
+		<td>170</td>
+	</tr>
+	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/redianmarku">
+				<img src="https://avatars.githubusercontent.com/u/42848358?s=72&u=75f83981fc22729a2040cc349cc307d3c16ff116&v=4" width="24" alt="Avatar of redianmarku"> redianmarku
+			</a><br/>
+			TopNotch Programmer
+		</td>
+		<td>Topnotch Programmer </td>
+		<td><a href="https://twitter.com/redian_marku">redian_marku</a></td>
+		<td>Albania</td>
+		<td>169</td>
 		<td>169</td>
 	</tr>
 	<tr>
@@ -3034,6 +3034,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>210</td>
 		<td>
+			<a href="https://github.com/ermirbeqiraj">
+				<img src="https://avatars.githubusercontent.com/u/7790756?s=72&u=ffb0cc31b00dc9db0264a4600cef179c85526ab0&v=4" width="24" alt="Avatar of ermirbeqiraj"> ermirbeqiraj
+			</a><br/>
+			Ermir Beqiraj
+		</td>
+		<td>Upwork </td>
+		<td><a href="https://twitter.com/ermirbeqiraj">ermirbeqiraj</a></td>
+		<td>Tirana,Albania</td>
+		<td>15</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
 			<a href="https://github.com/LedinaRrethi">
 				<img src="https://avatars.githubusercontent.com/u/146110609?s=72&v=4" width="24" alt="Avatar of LedinaRrethi"> LedinaRrethi
 			</a><br/>
@@ -3046,7 +3060,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/arbso">
 				<img src="https://avatars.githubusercontent.com/u/62308239?s=72&u=9009ab9ae960c35bb581aedd7d06a42ab8e04277&v=4" width="24" alt="Avatar of arbso"> arbso
@@ -3058,20 +3072,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Albania</td>
 		<td>44</td>
 		<td>145</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/ermirbeqiraj">
-				<img src="https://avatars.githubusercontent.com/u/7790756?s=72&u=ffb0cc31b00dc9db0264a4600cef179c85526ab0&v=4" width="24" alt="Avatar of ermirbeqiraj"> ermirbeqiraj
-			</a><br/>
-			Ermir Beqiraj
-		</td>
-		<td>Upwork </td>
-		<td><a href="https://twitter.com/ermirbeqiraj">ermirbeqiraj</a></td>
-		<td>Tirana,Albania</td>
-		<td>15</td>
-		<td>144</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -3174,6 +3174,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>220</td>
 		<td>
+			<a href="https://github.com/mateohysa">
+				<img src="https://avatars.githubusercontent.com/u/101218113?s=72&u=a9b87a1ca02d68ee31ecc1b2e7a2933b425bfae2&v=4" width="24" alt="Avatar of mateohysa"> mateohysa
+			</a><br/>
+			Mateo Hysa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>109</td>
+		<td>132</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
 			<a href="https://github.com/ronadabasha">
 				<img src="https://avatars.githubusercontent.com/u/163303141?s=72&v=4" width="24" alt="Avatar of ronadabasha"> ronadabasha
 			</a><br/>
@@ -3186,7 +3200,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/RemionBacova">
 				<img src="https://avatars.githubusercontent.com/u/36884588?s=72&u=7a8cff55c213ef42cfd0871430622261b2660361&v=4" width="24" alt="Avatar of RemionBacova"> RemionBacova
@@ -3197,20 +3211,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana Albania</td>
 		<td>3</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
-			<a href="https://github.com/mateohysa">
-				<img src="https://avatars.githubusercontent.com/u/101218113?s=72&u=a9b87a1ca02d68ee31ecc1b2e7a2933b425bfae2&v=4" width="24" alt="Avatar of mateohysa"> mateohysa
-			</a><br/>
-			Mateo Hysa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>109</td>
 		<td>130</td>
 	</tr>
 	<tr>
@@ -3468,6 +3468,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>241</td>
 		<td>
+			<a href="https://github.com/KlajdiZmalaj">
+				<img src="https://avatars.githubusercontent.com/u/32370399?s=72&u=aa2ce3d1f07cc2ef05715657abd09058c55928a3&v=4" width="24" alt="Avatar of KlajdiZmalaj"> KlajdiZmalaj
+			</a><br/>
+			Klajdi Zmalaj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirane, Albania</td>
+		<td>9</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>242</td>
+		<td>
 			<a href="https://github.com/oniwebdesigner">
 				<img src="https://avatars.githubusercontent.com/u/154615613?s=72&u=05c346d5f2e4bf335f0484e64932b6151c1a508c&v=4" width="24" alt="Avatar of oniwebdesigner"> oniwebdesigner
 			</a><br/>
@@ -3480,7 +3494,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/thewebverse">
 				<img src="https://avatars.githubusercontent.com/u/32201875?s=72&u=a40e703a5322f9ce91920c79f360fa7546df15dd&v=4" width="24" alt="Avatar of thewebverse"> thewebverse
@@ -3491,20 +3505,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/thewebverse">thewebverse</a></td>
 		<td>Albania</td>
 		<td>0</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>243</td>
-		<td>
-			<a href="https://github.com/KlajdiZmalaj">
-				<img src="https://avatars.githubusercontent.com/u/32370399?s=72&u=aa2ce3d1f07cc2ef05715657abd09058c55928a3&v=4" width="24" alt="Avatar of KlajdiZmalaj"> KlajdiZmalaj
-			</a><br/>
-			Klajdi Zmalaj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirane, Albania</td>
-		<td>9</td>
 		<td>102</td>
 	</tr>
 	<tr>
@@ -3580,6 +3580,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>249</td>
 		<td>
+			<a href="https://github.com/justEliada">
+				<img src="https://avatars.githubusercontent.com/u/93603435?s=72&u=adb538f2fc0fa6581ea239793d4eea6fb690a9de&v=4" width="24" alt="Avatar of justEliada"> justEliada
+			</a><br/>
+			Eliada Ballazhi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Albania</td>
+		<td>96</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
 			<a href="https://github.com/UesliLaskajs">
 				<img src="https://avatars.githubusercontent.com/u/98287119?s=72&u=4c9dad618276d3164c660a9b31d95a56f5c7de26&v=4" width="24" alt="Avatar of UesliLaskajs"> UesliLaskajs
 			</a><br/>
@@ -3592,21 +3606,21 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
-			<a href="https://github.com/justEliada">
-				<img src="https://avatars.githubusercontent.com/u/93603435?s=72&u=adb538f2fc0fa6581ea239793d4eea6fb690a9de&v=4" width="24" alt="Avatar of justEliada"> justEliada
+			<a href="https://github.com/tars17">
+				<img src="https://avatars.githubusercontent.com/u/8302947?s=72&u=cef76f13e1d8cceaa3a18483db9cc1c299e6aa4b&v=4" width="24" alt="Avatar of tars17"> tars17
 			</a><br/>
-			Eliada Ballazhi
+			Tarzan Prenga
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Albania</td>
-		<td>95</td>
-		<td>95</td>
+		<td>Durrës, Albania</td>
+		<td>0</td>
+		<td>94</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/erlandmuchasaj">
 				<img src="https://avatars.githubusercontent.com/u/6152399?s=72&v=4" width="24" alt="Avatar of erlandmuchasaj"> erlandmuchasaj
@@ -3620,7 +3634,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/almighty704">
 				<img src="https://avatars.githubusercontent.com/u/80696988?s=72&u=bbfc076720701924136153a2878c7c51255040da&v=4" width="24" alt="Avatar of almighty704"> almighty704
@@ -3634,7 +3648,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/KriselT">
 				<img src="https://avatars.githubusercontent.com/u/33683153?s=72&v=4" width="24" alt="Avatar of KriselT"> KriselT
@@ -3648,7 +3662,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/detjonmataj">
 				<img src="https://avatars.githubusercontent.com/u/84277348?s=72&u=10e0cfdb3afc2055fc4396bccbd2a404eee12db0&v=4" width="24" alt="Avatar of detjonmataj"> detjonmataj
@@ -3662,7 +3676,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/armirpepkola">
 				<img src="https://avatars.githubusercontent.com/u/132263344?s=72&v=4" width="24" alt="Avatar of armirpepkola"> armirpepkola
@@ -3674,20 +3688,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirana, Albania</td>
 		<td>63</td>
 		<td>92</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/tars17">
-				<img src="https://avatars.githubusercontent.com/u/8302947?s=72&u=cef76f13e1d8cceaa3a18483db9cc1c299e6aa4b&v=4" width="24" alt="Avatar of tars17"> tars17
-			</a><br/>
-			Tarzan Prenga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Durrës, Albania</td>
-		<td>0</td>
-		<td>91</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -4084,6 +4084,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>285</td>
 		<td>
+			<a href="https://github.com/sidorelauku">
+				<img src="https://avatars.githubusercontent.com/u/24439184?s=72&u=201e802855ea204f7493e603d2baaae07c578202&v=4" width="24" alt="Avatar of sidorelauku"> sidorelauku
+			</a><br/>
+			Sidorela Uku
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>65</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
 			<a href="https://github.com/iglikoxha">
 				<img src="https://avatars.githubusercontent.com/u/11091751?s=72&v=4" width="24" alt="Avatar of iglikoxha"> iglikoxha
 			</a><br/>
@@ -4096,7 +4110,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/justdani3l">
 				<img src="https://avatars.githubusercontent.com/u/138371631?s=72&u=a9fdbc7144e4f3a7fea2ffb5066f06c1330422d0&v=4" width="24" alt="Avatar of justdani3l"> justdani3l
@@ -4110,7 +4124,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/kashari">
 				<img src="https://avatars.githubusercontent.com/u/93337874?s=72&u=032dbf9fccb0fc1fbb9ee58ae8d850e184f73e37&v=4" width="24" alt="Avatar of kashari"> kashari
@@ -4124,7 +4138,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/orgestbelba">
 				<img src="https://avatars.githubusercontent.com/u/69637338?s=72&v=4" width="24" alt="Avatar of orgestbelba"> orgestbelba
@@ -4136,20 +4150,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirana</td>
 		<td>45</td>
 		<td>65</td>
-	</tr>
-	<tr>
-		<td>289</td>
-		<td>
-			<a href="https://github.com/sidorelauku">
-				<img src="https://avatars.githubusercontent.com/u/24439184?s=72&u=201e802855ea204f7493e603d2baaae07c578202&v=4" width="24" alt="Avatar of sidorelauku"> sidorelauku
-			</a><br/>
-			Sidorela Uku
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>64</td>
-		<td>64</td>
 	</tr>
 	<tr>
 		<td>290</td>
@@ -4350,6 +4350,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>304</td>
 		<td>
+			<a href="https://github.com/kelvincobanaj">
+				<img src="https://avatars.githubusercontent.com/u/3618847?s=72&u=d25f9cf9bd0ed55326cb546615d5d7a825977d41&v=4" width="24" alt="Avatar of kelvincobanaj"> kelvincobanaj
+			</a><br/>
+			Kelvin Çobanaj
+		</td>
+		<td>Cto @ Istack Conferences<br/></td>
+		<td>No Twitter Username</td>
+		<td>Durrës, Albania</td>
+		<td>0</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>305</td>
+		<td>
 			<a href="https://github.com/hegigj">
 				<img src="https://avatars.githubusercontent.com/u/43541693?s=72&u=39fc0657ae29c720212654f60817686102a5ffde&v=4" width="24" alt="Avatar of hegigj"> hegigj
 			</a><br/>
@@ -4362,7 +4376,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/endrilickollari">
 				<img src="https://avatars.githubusercontent.com/u/32954585?s=72&u=34271bad6bae9e9ef5f39f87738ba8b005af686b&v=4" width="24" alt="Avatar of endrilickollari"> endrilickollari
@@ -4376,21 +4390,21 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
-			<a href="https://github.com/kelvincobanaj">
-				<img src="https://avatars.githubusercontent.com/u/3618847?s=72&u=d25f9cf9bd0ed55326cb546615d5d7a825977d41&v=4" width="24" alt="Avatar of kelvincobanaj"> kelvincobanaj
+			<a href="https://github.com/xhuliodo">
+				<img src="https://avatars.githubusercontent.com/u/42738300?s=72&u=681f68047073e7465a18fc044ef2728292fb7656&v=4" width="24" alt="Avatar of xhuliodo"> xhuliodo
 			</a><br/>
-			Kelvin Çobanaj
+			No Name
 		</td>
-		<td>Cto @ Istack Conferences<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Durrës, Albania</td>
-		<td>0</td>
-		<td>56</td>
+		<td>Albania</td>
+		<td>57</td>
+		<td>57</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/redjonzaci">
 				<img src="https://avatars.githubusercontent.com/u/73707194?s=72&u=a67e5545eede998e64c715acbde595cbbad2d1d5&v=4" width="24" alt="Avatar of redjonzaci"> redjonzaci
@@ -4404,7 +4418,21 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/joanskenderi">
+				<img src="https://avatars.githubusercontent.com/u/155361543?s=72&u=18a7391854593bc905e7da2bcb6895e029789203&v=4" width="24" alt="Avatar of joanskenderi"> joanskenderi
+			</a><br/>
+			Joan Skënderi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tirana, Albania</td>
+		<td>52</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/Michael-Shollaj">
 				<img src="https://avatars.githubusercontent.com/u/55102646?s=72&u=2cec8d43126cea376a8c91b40f45313641606ccd&v=4" width="24" alt="Avatar of Michael-Shollaj"> Michael-Shollaj
@@ -4418,7 +4446,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/yxngrbree">
 				<img src="https://avatars.githubusercontent.com/u/117034444?s=72&u=818972db68fdf8dc5ea661138a9e0748e755449f&v=4" width="24" alt="Avatar of yxngrbree"> yxngrbree
@@ -4432,7 +4460,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/laureta16">
 				<img src="https://avatars.githubusercontent.com/u/92602934?s=72&u=3b92f2272c8e367fcd45ca8c0ded71aacb05f4c4&v=4" width="24" alt="Avatar of laureta16"> laureta16
@@ -4446,21 +4474,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>311</td>
-		<td>
-			<a href="https://github.com/joanskenderi">
-				<img src="https://avatars.githubusercontent.com/u/155361543?s=72&u=18a7391854593bc905e7da2bcb6895e029789203&v=4" width="24" alt="Avatar of joanskenderi"> joanskenderi
-			</a><br/>
-			Joan Skënderi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tirana, Albania</td>
-		<td>51</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/XhinoKurtaj">
 				<img src="https://avatars.githubusercontent.com/u/28669133?s=72&u=b970849d0bf9b2ccf158321aa337e54ddfa5c2e8&v=4" width="24" alt="Avatar of XhinoKurtaj"> XhinoKurtaj
@@ -4471,20 +4485,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirana, Albania</td>
 		<td>24</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/xhuliodo">
-				<img src="https://avatars.githubusercontent.com/u/42738300?s=72&u=681f68047073e7465a18fc044ef2728292fb7656&v=4" width="24" alt="Avatar of xhuliodo"> xhuliodo
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Albania</td>
-		<td>53</td>
 		<td>53</td>
 	</tr>
 	<tr>
@@ -5316,6 +5316,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>373</td>
 		<td>
+			<a href="https://github.com/armandogjona">
+				<img src="https://avatars.githubusercontent.com/u/170644230?s=72&u=a674bd7c3f5b6b0cb08776554a88a799ff18dc05&v=4" width="24" alt="Avatar of armandogjona"> armandogjona
+			</a><br/>
+			Armando Gjona
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Albania</td>
+		<td>12</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
 			<a href="https://github.com/koxhajmelsi1">
 				<img src="https://avatars.githubusercontent.com/u/153204429?s=72&u=88241d292de812aa35aa975017c47edb8ac84435&v=4" width="24" alt="Avatar of koxhajmelsi1"> koxhajmelsi1
 			</a><br/>
@@ -5328,7 +5342,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/bekimdajlani">
 				<img src="https://avatars.githubusercontent.com/u/115047523?s=72&u=9746ead9f4db893c1db8098f395663a23dbc2560&v=4" width="24" alt="Avatar of bekimdajlani"> bekimdajlani
@@ -5342,7 +5356,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/Manuel-Zela">
 				<img src="https://avatars.githubusercontent.com/u/158719110?s=72&u=a12045731445b0dbe57d8513b5b1c74e3eae1ab9&v=4" width="24" alt="Avatar of Manuel-Zela"> Manuel-Zela
@@ -5356,7 +5370,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/albionh">
 				<img src="https://avatars.githubusercontent.com/u/98189489?s=72&u=c54b77c95e8a976f8990b7800fc493fb6ba4e767&v=4" width="24" alt="Avatar of albionh"> albionh
@@ -5370,7 +5384,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/gerti1991">
 				<img src="https://avatars.githubusercontent.com/u/32478955?s=72&v=4" width="24" alt="Avatar of gerti1991"> gerti1991
@@ -5384,7 +5398,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/meginako">
 				<img src="https://avatars.githubusercontent.com/u/95941607?s=72&u=7770efc3a1f6e8e66a4d665f96c51d2309ae3779&v=4" width="24" alt="Avatar of meginako"> meginako
@@ -5398,7 +5412,21 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
+		<td>
+			<a href="https://github.com/xray700r">
+				<img src="https://avatars.githubusercontent.com/u/36812668?s=72&u=bfd42cc4a5dce59d46531dfd974e6abeec7942eb&v=4" width="24" alt="Avatar of xray700r"> xray700r
+			</a><br/>
+			Moisi Xhaferaj
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Albania</td>
+		<td>23</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/Roxana-debug">
 				<img src="https://avatars.githubusercontent.com/u/119653370?s=72&u=989fc4111f75dae7c08a55f682514ea688d0967e&v=4" width="24" alt="Avatar of Roxana-debug"> Roxana-debug
@@ -5412,7 +5440,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/Enid84">
 				<img src="https://avatars.githubusercontent.com/u/102694564?s=72&u=ed6eb0de99303a67574def185c4731f41fd978f5&v=4" width="24" alt="Avatar of Enid84"> Enid84
@@ -5426,21 +5454,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>381</td>
-		<td>
-			<a href="https://github.com/armandogjona">
-				<img src="https://avatars.githubusercontent.com/u/170644230?s=72&u=a674bd7c3f5b6b0cb08776554a88a799ff18dc05&v=4" width="24" alt="Avatar of armandogjona"> armandogjona
-			</a><br/>
-			Armando Gjona
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Albania</td>
-		<td>12</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/mirliancakalli">
 				<img src="https://avatars.githubusercontent.com/u/24764208?s=72&u=60d937a655d7d4f97e06e8d64ebd4abf85f5321d&v=4" width="24" alt="Avatar of mirliancakalli"> mirliancakalli
@@ -5454,7 +5468,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/EndiYmeri">
 				<img src="https://avatars.githubusercontent.com/u/56412395?s=72&v=4" width="24" alt="Avatar of EndiYmeri"> EndiYmeri
@@ -5468,7 +5482,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/klevinism">
 				<img src="https://avatars.githubusercontent.com/u/566916?s=72&u=42f5ee72e86df3516d87d26fbf9ae88d7075bc7d&v=4" width="24" alt="Avatar of klevinism"> klevinism
@@ -5482,7 +5496,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/valeriamarku">
 				<img src="https://avatars.githubusercontent.com/u/147322496?s=72&u=8d70add8a395aa05bb8bdf6f3c7b0f5e443e2af3&v=4" width="24" alt="Avatar of valeriamarku"> valeriamarku
@@ -5494,20 +5508,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Tirane, Albania</td>
 		<td>21</td>
 		<td>21</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
-			<a href="https://github.com/xray700r">
-				<img src="https://avatars.githubusercontent.com/u/36812668?s=72&u=bfd42cc4a5dce59d46531dfd974e6abeec7942eb&v=4" width="24" alt="Avatar of xray700r"> xray700r
-			</a><br/>
-			Moisi Xhaferaj
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Albania</td>
-		<td>20</td>
-		<td>20</td>
 	</tr>
 	<tr>
 		<td>387</td>
@@ -6688,6 +6688,20 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>471</td>
 		<td>
+			<a href="https://github.com/rdaja">
+				<img src="https://avatars.githubusercontent.com/u/84237647?s=72&u=3836e304255de0dab54906fc8bfc468ea5071d96&v=4" width="24" alt="Avatar of rdaja"> rdaja
+			</a><br/>
+			Roanda 
+		</td>
+		<td>Adamant Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Albania</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
 			<a href="https://github.com/FlorianHiso18">
 				<img src="https://avatars.githubusercontent.com/u/154934501?s=72&u=d916c32ca21582182910e77b049dc9b91689cb70&v=4" width="24" alt="Avatar of FlorianHiso18"> FlorianHiso18
 			</a><br/>
@@ -6700,7 +6714,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/elianbraja">
 				<img src="https://avatars.githubusercontent.com/u/22617897?s=72&u=ab260123d620c3abe609e0b2e460150bd861d0f3&v=4" width="24" alt="Avatar of elianbraja"> elianbraja
@@ -6714,7 +6728,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/saltionsatka">
 				<img src="https://avatars.githubusercontent.com/u/47357627?s=72&v=4" width="24" alt="Avatar of saltionsatka"> saltionsatka
@@ -6728,7 +6742,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/MariusLuzi">
 				<img src="https://avatars.githubusercontent.com/u/140899278?s=72&u=c4570621b84168ec104f5f7a76c865978d42fe1e&v=4" width="24" alt="Avatar of MariusLuzi"> MariusLuzi
@@ -6742,7 +6756,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/4lbH4cker">
 				<img src="https://avatars.githubusercontent.com/u/94483858?s=72&u=b3c6a6d37fc0fd3b5f71002e91f77987bab82be7&v=4" width="24" alt="Avatar of 4lbH4cker"> 4lbH4cker
@@ -6756,7 +6770,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/Ledian63S">
 				<img src="https://avatars.githubusercontent.com/u/85931733?s=72&u=8adb079bbe8e7e97a5ce814a09da30ccd03c3708&v=4" width="24" alt="Avatar of Ledian63S"> Ledian63S
@@ -6770,7 +6784,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/JustiHysi">
 				<img src="https://avatars.githubusercontent.com/u/142355907?s=72&u=f6662a49963acd9e78c59c1f7947e7e94b114467&v=4" width="24" alt="Avatar of JustiHysi"> JustiHysi
@@ -6784,7 +6798,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/kalemi19">
 				<img src="https://avatars.githubusercontent.com/u/1066392?s=72&u=70a524f8c8b9e16766c0807fb55ff96c53307cd0&v=4" width="24" alt="Avatar of kalemi19"> kalemi19
@@ -6798,7 +6812,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/vaskastambolliu">
 				<img src="https://avatars.githubusercontent.com/u/33496849?s=72&v=4" width="24" alt="Avatar of vaskastambolliu"> vaskastambolliu
@@ -6812,7 +6826,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/megigremi">
 				<img src="https://avatars.githubusercontent.com/u/138001148?s=72&u=05d89b2d80893c0b578881d54b288b9b81f24775&v=4" width="24" alt="Avatar of megigremi"> megigremi
@@ -6826,7 +6840,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/atafani">
 				<img src="https://avatars.githubusercontent.com/u/64012334?s=72&u=918ffbd05f23bbd2d28223b333ea823e73a63da9&v=4" width="24" alt="Avatar of atafani"> atafani
@@ -6840,7 +6854,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/anxhelo123">
 				<img src="https://avatars.githubusercontent.com/u/49105066?s=72&v=4" width="24" alt="Avatar of anxhelo123"> anxhelo123
@@ -6854,7 +6868,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/katro16">
 				<img src="https://avatars.githubusercontent.com/u/628812?s=72&v=4" width="24" alt="Avatar of katro16"> katro16
@@ -6868,7 +6882,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/lenardos">
 				<img src="https://avatars.githubusercontent.com/u/601478?s=72&u=064b91c3e2f93ee50391ae0bcdd9066913ecc129&v=4" width="24" alt="Avatar of lenardos"> lenardos
@@ -6882,7 +6896,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/Erald-Whitey">
 				<img src="https://avatars.githubusercontent.com/u/61166609?s=72&v=4" width="24" alt="Avatar of Erald-Whitey"> Erald-Whitey
@@ -6896,7 +6910,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/DenaldM">
 				<img src="https://avatars.githubusercontent.com/u/51956007?s=72&u=0825d9298d74aa145b8741902d827f72122a8fbd&v=4" width="24" alt="Avatar of DenaldM"> DenaldM
@@ -6910,7 +6924,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/ergism">
 				<img src="https://avatars.githubusercontent.com/u/47216303?s=72&v=4" width="24" alt="Avatar of ergism"> ergism
@@ -6924,7 +6938,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/edratabaku">
 				<img src="https://avatars.githubusercontent.com/u/68347994?s=72&u=d28575debb919fe64b5af813bed2e155a332e4ce&v=4" width="24" alt="Avatar of edratabaku"> edratabaku
@@ -6938,7 +6952,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/dhimiterbundo">
 				<img src="https://avatars.githubusercontent.com/u/33829192?s=72&v=4" width="24" alt="Avatar of dhimiterbundo"> dhimiterbundo
@@ -6952,7 +6966,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/arbermustafa">
 				<img src="https://avatars.githubusercontent.com/u/1318974?s=72&u=49d33ad245d3867d070176dbbb2527dc8e2eb913&v=4" width="24" alt="Avatar of arbermustafa"> arbermustafa
@@ -6966,7 +6980,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/rcst">
 				<img src="https://avatars.githubusercontent.com/u/14731447?s=72&u=b9db3caf95e075741d1e8e156f0f2690743e4158&v=4" width="24" alt="Avatar of rcst"> rcst
@@ -6980,7 +6994,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/endritNovaku">
 				<img src="https://avatars.githubusercontent.com/u/62180779?s=72&v=4" width="24" alt="Avatar of endritNovaku"> endritNovaku
@@ -6994,7 +7008,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/klevismiho">
 				<img src="https://avatars.githubusercontent.com/u/653984?s=72&u=e8808efd1e4c5bb5491ae5935ef322d91b0149d2&v=4" width="24" alt="Avatar of klevismiho"> klevismiho
@@ -7008,7 +7022,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/giveonaldo">
 				<img src="https://avatars.githubusercontent.com/u/151848586?s=72&u=07b06bb1a40ed1781622da218942257455493bf5&v=4" width="24" alt="Avatar of giveonaldo"> giveonaldo
@@ -7022,7 +7036,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/IgliCela">
 				<img src="https://avatars.githubusercontent.com/u/138710145?s=72&u=89b54429a31af39656830b26298818eb9e26f050&v=4" width="24" alt="Avatar of IgliCela"> IgliCela
@@ -7036,7 +7050,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/marianogitlab">
 				<img src="https://avatars.githubusercontent.com/u/92428256?s=72&u=bc0b8a403a6437a1837cc1e9817f8c2ba863f9d7&v=4" width="24" alt="Avatar of marianogitlab"> marianogitlab
@@ -7050,7 +7064,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/x-poda">
 				<img src="https://avatars.githubusercontent.com/u/77067876?s=72&u=ba45818924451d173eee0855f5c54f901e01e989&v=4" width="24" alt="Avatar of x-poda"> x-poda
@@ -7064,7 +7078,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/florencD">
 				<img src="https://avatars.githubusercontent.com/u/16935105?s=72&u=ff89f072d9ba360f7c04c62c020f617859e48cec&v=4" width="24" alt="Avatar of florencD"> florencD
@@ -7078,7 +7092,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/myelin0">
 				<img src="https://avatars.githubusercontent.com/u/88782702?s=72&u=dda2182a84ec7732a031d781d27b3377712a5477&v=4" width="24" alt="Avatar of myelin0"> myelin0
@@ -7092,7 +7106,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/ictTuri">
 				<img src="https://avatars.githubusercontent.com/u/52911353?s=72&u=fcff6deff5ca0a3ad5240d5e5ec7b81c613d1beb&v=4" width="24" alt="Avatar of ictTuri"> ictTuri
@@ -7106,7 +7120,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/lor1x">
 				<img src="https://avatars.githubusercontent.com/u/22913459?s=72&u=0bbf9179677b8f8766307024d3cef918b103173f&v=4" width="24" alt="Avatar of lor1x"> lor1x
@@ -7120,7 +7134,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/FabioH7">
 				<img src="https://avatars.githubusercontent.com/u/113882125?s=72&v=4" width="24" alt="Avatar of FabioH7"> FabioH7
@@ -7134,7 +7148,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/gazmi82">
 				<img src="https://avatars.githubusercontent.com/u/47264949?s=72&v=4" width="24" alt="Avatar of gazmi82"> gazmi82
@@ -7148,7 +7162,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/astritdemiri11">
 				<img src="https://avatars.githubusercontent.com/u/11302890?s=72&v=4" width="24" alt="Avatar of astritdemiri11"> astritdemiri11
@@ -7162,7 +7176,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/howmanyseas">
 				<img src="https://avatars.githubusercontent.com/u/101937127?s=72&u=1d3657c3f54656a9e88cb095635ac9c9e086cb92&v=4" width="24" alt="Avatar of howmanyseas"> howmanyseas
@@ -7176,7 +7190,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/bling1388">
 				<img src="https://avatars.githubusercontent.com/u/81565104?s=72&u=50ae6b6904b28390078c4e7e3ae128ed86c172c9&v=4" width="24" alt="Avatar of bling1388"> bling1388
@@ -7190,7 +7204,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/mariolcakalli">
 				<img src="https://avatars.githubusercontent.com/u/46714234?s=72&u=3ae1157d87448520afa426ed9b1c251ddf5963af&v=4" width="24" alt="Avatar of mariolcakalli"> mariolcakalli
@@ -7204,7 +7218,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/AdelaAlushi">
 				<img src="https://avatars.githubusercontent.com/u/51212803?s=72&u=27b5e6ae130781e0dab31caf1fb2bff4ea910a49&v=4" width="24" alt="Avatar of AdelaAlushi"> AdelaAlushi
@@ -7218,7 +7232,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/kevingjika">
 				<img src="https://avatars.githubusercontent.com/u/67788009?s=72&u=e52ac0d06e1a4ec1dc3765355b24d4f14ba41a1d&v=4" width="24" alt="Avatar of kevingjika"> kevingjika
@@ -7232,7 +7246,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/mhaarrits">
 				<img src="https://avatars.githubusercontent.com/u/72675391?s=72&u=d4c96259ffc6afb4e9a834f7bb7d8e654256d8f1&v=4" width="24" alt="Avatar of mhaarrits"> mhaarrits
@@ -7246,7 +7260,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/HiroLuka">
 				<img src="https://avatars.githubusercontent.com/u/153680485?s=72&u=1e64b3be72e30f7178070dd857256da7f88d640f&v=4" width="24" alt="Avatar of HiroLuka"> HiroLuka
@@ -7260,7 +7274,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/NuniTelo">
 				<img src="https://avatars.githubusercontent.com/u/24767579?s=72&u=2ac3984308510761454e266d922d22f461ad2c8d&v=4" width="24" alt="Avatar of NuniTelo"> NuniTelo
@@ -7274,7 +7288,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/santiljanomalaj">
 				<img src="https://avatars.githubusercontent.com/u/58988274?s=72&u=db94486e6e4d473e4a60c832ee8b4e79e5939c04&v=4" width="24" alt="Avatar of santiljanomalaj"> santiljanomalaj
@@ -7288,7 +7302,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/arditza">
 				<img src="https://avatars.githubusercontent.com/u/35269845?s=72&u=9c536112db0f77bfd41ed69f3ac112e518959a31&v=4" width="24" alt="Avatar of arditza"> arditza
@@ -7302,7 +7316,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/amirbuzo">
 				<img src="https://avatars.githubusercontent.com/u/3788671?s=72&u=4c80e875f8792322486ccf7421f6dfe600c34183&v=4" width="24" alt="Avatar of amirbuzo"> amirbuzo
@@ -7316,7 +7330,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/Venallanaj">
 				<img src="https://avatars.githubusercontent.com/u/71196658?s=72&u=f7c456642846459dcb21aceb4058799b205637b5&v=4" width="24" alt="Avatar of Venallanaj"> Venallanaj
@@ -7330,7 +7344,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/euglen-mulaj">
 				<img src="https://avatars.githubusercontent.com/u/97746080?s=72&u=3599d5b899b4a841839ba94a06f7e48aa1977809&v=4" width="24" alt="Avatar of euglen-mulaj"> euglen-mulaj
@@ -7344,7 +7358,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/besartmarku">
 				<img src="https://avatars.githubusercontent.com/u/34649952?s=72&u=84ed6a68ff699ff45cdc6fa6336696f942e509ed&v=4" width="24" alt="Avatar of besartmarku"> besartmarku
@@ -7358,7 +7372,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/adelinacoding">
 				<img src="https://avatars.githubusercontent.com/u/141679221?s=72&u=74a248f09e34ed351b5cce2acf21d22b421c2a24&v=4" width="24" alt="Avatar of adelinacoding"> adelinacoding
@@ -7372,7 +7386,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/gazmirpisha12">
 				<img src="https://avatars.githubusercontent.com/u/88835953?s=72&u=565ef6080efe9c54ec98d2aab54f2529caabfed1&v=4" width="24" alt="Avatar of gazmirpisha12"> gazmirpisha12
@@ -7386,7 +7400,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/daedalusal">
 				<img src="https://avatars.githubusercontent.com/u/118228709?s=72&v=4" width="24" alt="Avatar of daedalusal"> daedalusal
@@ -7400,7 +7414,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/SonjaKalo">
 				<img src="https://avatars.githubusercontent.com/u/150522420?s=72&u=7af2b788afe73ac937ae03ef90548c6ef69c7e91&v=4" width="24" alt="Avatar of SonjaKalo"> SonjaKalo
@@ -7414,7 +7428,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/alexmadd4">
 				<img src="https://avatars.githubusercontent.com/u/115838290?s=72&u=1b105368f535c28715b41e061eeac3d9421cb151&v=4" width="24" alt="Avatar of alexmadd4"> alexmadd4
@@ -7428,7 +7442,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/rafkob">
 				<img src="https://avatars.githubusercontent.com/u/133196062?s=72&u=e7b2c97d2f2dd019b4df6e54b7eda89767a6c6c5&v=4" width="24" alt="Avatar of rafkob"> rafkob
@@ -7442,7 +7456,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/Arienti">
 				<img src="https://avatars.githubusercontent.com/u/92456080?s=72&v=4" width="24" alt="Avatar of Arienti"> Arienti
@@ -7456,7 +7470,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/lennyaspen">
 				<img src="https://avatars.githubusercontent.com/u/1041339?s=72&u=116ae71f335dfc8e0d5d05c31c094330389e3864&v=4" width="24" alt="Avatar of lennyaspen"> lennyaspen
@@ -7470,7 +7484,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/elvisvarrosi">
 				<img src="https://avatars.githubusercontent.com/u/150506674?s=72&u=c37c7ba4aabefc6502305d595506182015f2223a&v=4" width="24" alt="Avatar of elvisvarrosi"> elvisvarrosi
@@ -7484,7 +7498,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/orhanasllani">
 				<img src="https://avatars.githubusercontent.com/u/48629225?s=72&v=4" width="24" alt="Avatar of orhanasllani"> orhanasllani
@@ -7498,7 +7512,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/nidabaci">
 				<img src="https://avatars.githubusercontent.com/u/60344290?s=72&u=0a04c250cff50232f055d053db863e39e4cb2985&v=4" width="24" alt="Avatar of nidabaci"> nidabaci
@@ -7512,7 +7526,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/meggsila">
 				<img src="https://avatars.githubusercontent.com/u/80169743?s=72&u=1e9bb119d7ba2deb5c28c0f5b3ef68338fde3ff7&v=4" width="24" alt="Avatar of meggsila"> meggsila
@@ -7526,7 +7540,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/AleksanderKoko">
 				<img src="https://avatars.githubusercontent.com/u/3903072?s=72&u=74d0d539dc9b6fff538b37c3c6cd8224afb06a7d&v=4" width="24" alt="Avatar of AleksanderKoko"> AleksanderKoko
@@ -7540,7 +7554,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/aldocano">
 				<img src="https://avatars.githubusercontent.com/u/8085145?s=72&u=7b813da0b0494e3451f1abc31312a3c6011e4141&v=4" width="24" alt="Avatar of aldocano"> aldocano
@@ -7554,7 +7568,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/samiscold">
 				<img src="https://avatars.githubusercontent.com/u/62956581?s=72&u=83c85c0bbf5393033c8742ed151a294b55798120&v=4" width="24" alt="Avatar of samiscold"> samiscold
@@ -7568,7 +7582,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/zzfabiozz">
 				<img src="https://avatars.githubusercontent.com/u/43100584?s=72&u=219c278feb8065296c3475499e573a2e03d321cf&v=4" width="24" alt="Avatar of zzfabiozz"> zzfabiozz
@@ -7582,7 +7596,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/MemiAllamani">
 				<img src="https://avatars.githubusercontent.com/u/15231960?s=72&v=4" width="24" alt="Avatar of MemiAllamani"> MemiAllamani
@@ -7596,7 +7610,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/dardi20">
 				<img src="https://avatars.githubusercontent.com/u/45981682?s=72&v=4" width="24" alt="Avatar of dardi20"> dardi20
@@ -7610,7 +7624,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/krisatopi">
 				<img src="https://avatars.githubusercontent.com/u/47714399?s=72&u=2ce9b16c9a674af3211eee4f41914996b6293147&v=4" width="24" alt="Avatar of krisatopi"> krisatopi
@@ -7624,7 +7638,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/arlind-shkrela">
 				<img src="https://avatars.githubusercontent.com/u/26505746?s=72&v=4" width="24" alt="Avatar of arlind-shkrela"> arlind-shkrela
@@ -7638,7 +7652,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/BrunildaDosti">
 				<img src="https://avatars.githubusercontent.com/u/23187783?s=72&u=53b50c2ecc891d625b4a24854ba18d3558210ea3&v=4" width="24" alt="Avatar of BrunildaDosti"> BrunildaDosti
@@ -7652,7 +7666,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/admirimkorici">
 				<img src="https://avatars.githubusercontent.com/u/82025628?s=72&u=46b085af86f9aadf9680004ddadecbe174fd06fa&v=4" width="24" alt="Avatar of admirimkorici"> admirimkorici
@@ -7666,7 +7680,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/goxhaj">
 				<img src="https://avatars.githubusercontent.com/u/5362555?s=72&u=8d677230111dc301c28fcb8be8fea9723e7a5149&v=4" width="24" alt="Avatar of goxhaj"> goxhaj
@@ -7680,7 +7694,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/albi2">
 				<img src="https://avatars.githubusercontent.com/u/53710410?s=72&v=4" width="24" alt="Avatar of albi2"> albi2
@@ -7694,7 +7708,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/marselsotiri">
 				<img src="https://avatars.githubusercontent.com/u/71046101?s=72&u=d297ccfa00e0155c773f905e7bdc602c083e9e9f&v=4" width="24" alt="Avatar of marselsotiri"> marselsotiri
@@ -7708,7 +7722,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/visi27">
 				<img src="https://avatars.githubusercontent.com/u/6974384?s=72&v=4" width="24" alt="Avatar of visi27"> visi27
@@ -7722,7 +7736,7 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/Irdiism">
 				<img src="https://avatars.githubusercontent.com/u/105106923?s=72&u=b71508688fff378c58b46de7fc2058d14b9f62dc&v=4" width="24" alt="Avatar of Irdiism"> Irdiism
@@ -7730,20 +7744,6 @@ There are `911 users`  in Albania. You need at least `1 followers` to be on this
 			Irdi
 		</td>
 		<td>Sfida.pro </td>
-		<td>No Twitter Username</td>
-		<td>Albania</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>546</td>
-		<td>
-			<a href="https://github.com/rdaja">
-				<img src="https://avatars.githubusercontent.com/u/84237647?s=72&u=3836e304255de0dab54906fc8bfc468ea5071d96&v=4" width="24" alt="Avatar of rdaja"> rdaja
-			</a><br/>
-			Roanda 
-		</td>
-		<td>Adamant Solutions </td>
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>2</td>
