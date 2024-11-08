@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/11/8 12:08 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/11/8 9:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -117,24 +117,10 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella, Andorra</td>
 		<td>299</td>
-		<td>2676</td>
+		<td>2686</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>
-			<a href="https://github.com/alexmf91">
-				<img src="https://avatars.githubusercontent.com/u/77585600?s=72&u=afba3c56ec3fae3a40a598426eeb73c4d0b9af34&v=4" width="24" alt="Avatar of alexmf91"> alexmf91
-			</a><br/>
-			Alex Muñoz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Barcelona (Spain) | Encamp (Andorra)</td>
-		<td>805</td>
-		<td>2543</td>
-	</tr>
-	<tr>
-		<td>3</td>
 		<td>
 			<a href="https://github.com/pathrom">
 				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
@@ -145,7 +131,21 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>33</td>
-		<td>2536</td>
+		<td>2546</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/alexmf91">
+				<img src="https://avatars.githubusercontent.com/u/77585600?s=72&u=afba3c56ec3fae3a40a598426eeb73c4d0b9af34&v=4" width="24" alt="Avatar of alexmf91"> alexmf91
+			</a><br/>
+			Alex Muñoz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Barcelona (Spain) | Encamp (Andorra)</td>
+		<td>805</td>
+		<td>2544</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -173,7 +173,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra / Barcelona</td>
 		<td>1</td>
-		<td>1531</td>
+		<td>1532</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -215,7 +215,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Ordino, Andorra</td>
 		<td>133</td>
-		<td>1273</td>
+		<td>1274</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -327,7 +327,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>2</td>
-		<td>1008</td>
+		<td>1012</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -383,7 +383,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Canillo, Andorra</td>
 		<td>13</td>
-		<td>758</td>
+		<td>763</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -425,7 +425,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/facundomedica">facundomedica</a></td>
 		<td>Andorra</td>
 		<td>623</td>
-		<td>668</td>
+		<td>670</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -481,7 +481,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>42</td>
-		<td>539</td>
+		<td>541</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -528,6 +528,20 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>31</td>
 		<td>
+			<a href="https://github.com/ErikWebDeveloper">
+				<img src="https://avatars.githubusercontent.com/u/155390184?s=72&u=bf269cbe582502ab0fd242da0faa68e586484abe&v=4" width="24" alt="Avatar of ErikWebDeveloper"> ErikWebDeveloper
+			</a><br/>
+			Erik
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>430</td>
+		<td>430</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
 			<a href="https://github.com/FredericLatour">
 				<img src="https://avatars.githubusercontent.com/u/1407847?s=72&u=e6aca69035a07eb4a5a7175ae88aefb9b4d27857&v=4" width="24" alt="Avatar of FredericLatour"> FredericLatour
 			</a><br/>
@@ -538,20 +552,6 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>54</td>
 		<td>428</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/ErikWebDeveloper">
-				<img src="https://avatars.githubusercontent.com/u/155390184?s=72&u=bf269cbe582502ab0fd242da0faa68e586484abe&v=4" width="24" alt="Avatar of ErikWebDeveloper"> ErikWebDeveloper
-			</a><br/>
-			Erik
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>426</td>
-		<td>426</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -584,6 +584,20 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/cmarfil">
+				<img src="https://avatars.githubusercontent.com/u/798849?s=72&v=4" width="24" alt="Avatar of cmarfil"> cmarfil
+			</a><br/>
+			Cristian Marfil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>0</td>
+		<td>373</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/jbernal87">
 				<img src="https://avatars.githubusercontent.com/u/11876329?s=72&u=067ed7b2f483b5c6940515cc4b26a2466fa1dcd2&v=4" width="24" alt="Avatar of jbernal87"> jbernal87
 			</a><br/>
@@ -594,20 +608,6 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>61</td>
 		<td>363</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/cmarfil">
-				<img src="https://avatars.githubusercontent.com/u/798849?s=72&v=4" width="24" alt="Avatar of cmarfil"> cmarfil
-			</a><br/>
-			Cristian Marfil
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>0</td>
-		<td>360</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -621,7 +621,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>120</td>
-		<td>356</td>
+		<td>358</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -635,7 +635,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>254</td>
-		<td>352</td>
+		<td>353</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -859,7 +859,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>3</td>
-		<td>124</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>55</td>
