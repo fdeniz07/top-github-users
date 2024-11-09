@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/11/8 9:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/11/9 6:07 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -579,7 +579,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
 		<td>Andorra</td>
 		<td>5</td>
-		<td>378</td>
+		<td>379</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -593,7 +593,7 @@ There are `365 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>373</td>
+		<td>374</td>
 	</tr>
 	<tr>
 		<td>36</td>
