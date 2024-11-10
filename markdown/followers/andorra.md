@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/11/9 3:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/11/10 12:17 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -1121,6 +1121,19 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>79</td>
 		<td>
+			<a href="https://github.com/Thejorgw">
+				<img src="https://avatars.githubusercontent.com/u/108561022?s=72&u=41ac6f723585c905092dac3d77740adbd1006e65&v=4" width="24" alt="Avatar of Thejorgw"> Thejorgw
+			</a><br/>
+			Jorge
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td>
 			<a href="https://github.com/pathrom">
 				<img src="https://avatars.githubusercontent.com/u/24878554?s=72&u=12feaadcc854826e4c57dc3799c9fe0a9970541f&v=4" width="24" alt="Avatar of pathrom"> pathrom
 			</a><br/>
@@ -1132,7 +1145,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/GRKdev">
 				<img src="https://avatars.githubusercontent.com/u/119631611?s=72&u=ade1b72f06e3c23c3d6aa5412db5de94af9ef723&v=4" width="24" alt="Avatar of GRKdev"> GRKdev
@@ -1145,7 +1158,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/PaulMatencio">
 				<img src="https://avatars.githubusercontent.com/u/5259065?s=72&v=4" width="24" alt="Avatar of PaulMatencio"> PaulMatencio
@@ -1158,7 +1171,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/janniten">
 				<img src="https://avatars.githubusercontent.com/u/33020901?s=72&u=71aed1d3c856991f27f60268fd3ae8b6e6ef3db7&v=4" width="24" alt="Avatar of janniten"> janniten
@@ -1171,7 +1184,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/DiMiTriFrog">
 				<img src="https://avatars.githubusercontent.com/u/38754548?s=72&u=16e081a04e02802f528110a8582ab442a172e373&v=4" width="24" alt="Avatar of DiMiTriFrog"> DiMiTriFrog
@@ -1184,7 +1197,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/maricarmenmartingomez">
 				<img src="https://avatars.githubusercontent.com/u/50134825?s=72&u=365228cbd4646b38bf90d7e7cb216e8f17bdd6b8&v=4" width="24" alt="Avatar of maricarmenmartingomez"> maricarmenmartingomez
@@ -1197,7 +1210,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/agustinramos">
 				<img src="https://avatars.githubusercontent.com/u/22509950?s=72&u=34d832cc33649c629230ee2ab2fc8b23d0624329&v=4" width="24" alt="Avatar of agustinramos"> agustinramos
@@ -1205,19 +1218,6 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 			Agustin Ramos Peruzzo
 		</td>
 		<td>Hotelgest </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
-			<a href="https://github.com/Thejorgw">
-				<img src="https://avatars.githubusercontent.com/u/108561022?s=72&u=41ac6f723585c905092dac3d77740adbd1006e65&v=4" width="24" alt="Avatar of Thejorgw"> Thejorgw
-			</a><br/>
-			Jorge
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>5</td>
