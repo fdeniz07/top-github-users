@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/12/1 6:07 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/12/2 3:21 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -1888,19 +1888,6 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>138</td>
 		<td>
-			<a href="https://github.com/DiogoPires2003">
-				<img src="https://avatars.githubusercontent.com/u/181859353?s=72&u=b2f8bcf93d9d463346bba5d23e1e961bb66a32b2&v=4" width="24" alt="Avatar of DiogoPires2003"> DiogoPires2003
-			</a><br/>
-			Diogo Filipe Alves Pires
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
 			<a href="https://github.com/OnlineOnAllTime">
 				<img src="https://avatars.githubusercontent.com/u/107973259?s=72&u=0dd87ec981904ea8389070dc26453749b5a46d52&v=4" width="24" alt="Avatar of OnlineOnAllTime"> OnlineOnAllTime
 			</a><br/>
@@ -1912,7 +1899,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/antonluu">
 				<img src="https://avatars.githubusercontent.com/u/42918587?s=72&v=4" width="24" alt="Avatar of antonluu"> antonluu
@@ -1925,7 +1912,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/xeitu">
 				<img src="https://avatars.githubusercontent.com/u/36117816?s=72&u=9297e2c1cd748a4ac33a9e3cae25c3ade253dead&v=4" width="24" alt="Avatar of xeitu"> xeitu
@@ -1938,7 +1925,7 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/GuillaumeDgr">
 				<img src="https://avatars.githubusercontent.com/u/29545767?s=72&u=11b3a8912012991c56d7888daade1785971d8659&v=4" width="24" alt="Avatar of GuillaumeDgr"> GuillaumeDgr
@@ -1946,6 +1933,19 @@ There are `366 users`  in Andorra. You need at least `0 followers` to be on this
 			Guillaume
 		</td>
 		<td>Devloop </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/DiogoPires2003">
+				<img src="https://avatars.githubusercontent.com/u/181859353?s=72&u=b2f8bcf93d9d463346bba5d23e1e961bb66a32b2&v=4" width="24" alt="Avatar of DiogoPires2003"> DiogoPires2003
+			</a><br/>
+			Diogo Filipe Alves Pires
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
