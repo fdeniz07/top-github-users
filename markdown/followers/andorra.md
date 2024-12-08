@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/12/8 12:08 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/12/8 9:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -193,7 +193,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>104</td>
+		<td>105</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -549,19 +549,6 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/adriaromero">
-				<img src="https://avatars.githubusercontent.com/u/5657335?s=72&u=cac2c5b7ea292b33d5c695d0a96a1530dcc892ea&v=4" width="24" alt="Avatar of adriaromero"> adriaromero
-			</a><br/>
-			Adria Romero
-		</td>
-		<td>@productizeml </td>
-		<td><a href="https://twitter.com/adriaromero">adriaromero</a></td>
-		<td>Andorra</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
 			<a href="https://github.com/MichelKansou">
 				<img src="https://avatars.githubusercontent.com/u/15091838?s=72&u=b2832d5806c9161c43d646d87da7a46443eba141&v=4" width="24" alt="Avatar of MichelKansou"> MichelKansou
 			</a><br/>
@@ -573,7 +560,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/blackaichi">
 				<img src="https://avatars.githubusercontent.com/u/29255819?s=72&u=2f11de0e1495bc4e56cae549ff9f41ca3357c576&v=4" width="24" alt="Avatar of blackaichi"> blackaichi
@@ -586,7 +573,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/pablongo">
 				<img src="https://avatars.githubusercontent.com/u/16439523?s=72&v=4" width="24" alt="Avatar of pablongo"> pablongo
@@ -595,6 +582,19 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/adriaromero">
+				<img src="https://avatars.githubusercontent.com/u/5657335?s=72&u=cac2c5b7ea292b33d5c695d0a96a1530dcc892ea&v=4" width="24" alt="Avatar of adriaromero"> adriaromero
+			</a><br/>
+			Adria Romero
+		</td>
+		<td>@productizeml </td>
+		<td><a href="https://twitter.com/adriaromero">adriaromero</a></td>
 		<td>Andorra</td>
 		<td>21</td>
 	</tr>

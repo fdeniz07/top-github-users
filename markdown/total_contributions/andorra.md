@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/12/8 12:08 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/12/8 9:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -327,7 +327,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra, Europe</td>
 		<td>65</td>
-		<td>791</td>
+		<td>792</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -467,7 +467,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>547</td>
+		<td>548</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -551,7 +551,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/amastronardi">amastronardi</a></td>
 		<td>Andorra</td>
 		<td>5</td>
-		<td>432</td>
+		<td>433</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -621,7 +621,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/kamilskowron">kamilskowron</a></td>
 		<td>Andorra</td>
 		<td>33</td>
-		<td>367</td>
+		<td>368</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -1102,6 +1102,20 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>72</td>
 		<td>
+			<a href="https://github.com/insodel">
+				<img src="https://avatars.githubusercontent.com/u/86533955?s=72&u=60607b483d4e256382e9488bc0fa3d49e6c77644&v=4" width="24" alt="Avatar of insodel"> insodel
+			</a><br/>
+			Aitor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>7</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
 			<a href="https://github.com/Jordanmacia">
 				<img src="https://avatars.githubusercontent.com/u/135045913?s=72&u=27cc6ff48f4a8e74b971a9386d7564f5c8a27aef&v=4" width="24" alt="Avatar of Jordanmacia"> Jordanmacia
 			</a><br/>
@@ -1114,7 +1128,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/MiquelOliveros">
 				<img src="https://avatars.githubusercontent.com/u/32848581?s=72&u=ee87c12ffb8a1e68fa68299b100111383d79210e&v=4" width="24" alt="Avatar of MiquelOliveros"> MiquelOliveros
@@ -1128,7 +1142,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/rtorres89">
 				<img src="https://avatars.githubusercontent.com/u/167857387?s=72&u=e8e674ac2b7977d18544ff580ae99bb5cb2c6120&v=4" width="24" alt="Avatar of rtorres89"> rtorres89
@@ -1142,7 +1156,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/AlexAltea">
 				<img src="https://avatars.githubusercontent.com/u/5306886?s=72&u=4093cf848cf8bae60892b88ec9729ff5c0b9c36c&v=4" width="24" alt="Avatar of AlexAltea"> AlexAltea
@@ -1156,7 +1170,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/seniorihor">
 				<img src="https://avatars.githubusercontent.com/u/836117?s=72&v=4" width="24" alt="Avatar of seniorihor"> seniorihor
@@ -1168,20 +1182,6 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>39</td>
 		<td>39</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/insodel">
-				<img src="https://avatars.githubusercontent.com/u/86533955?s=72&u=60607b483d4e256382e9488bc0fa3d49e6c77644&v=4" width="24" alt="Avatar of insodel"> insodel
-			</a><br/>
-			Aitor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>7</td>
-		<td>37</td>
 	</tr>
 	<tr>
 		<td>78</td>
