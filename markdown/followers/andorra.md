@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/12/16 11:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/12/16 8:07 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -398,7 +398,7 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 			</a><br/>
 			Salvador Girones Gil
 		</td>
-		<td>@surrealdb  </td>
+		<td>@medusajs </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>41</td>
@@ -692,10 +692,10 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>46</td>
 		<td>
-			<a href="https://github.com/real-felix">
-				<img src="https://avatars.githubusercontent.com/u/18555389?s=72&u=745d1118af9971e7256940f2a28723bbb548cd72&v=4" width="24" alt="Avatar of real-felix"> real-felix
+			<a href="https://github.com/gneotux">
+				<img src="https://avatars.githubusercontent.com/u/1918857?s=72&u=8f4cbfb65728e934b92868df3e2df1beabc9ffd6&v=4" width="24" alt="Avatar of gneotux"> gneotux
 			</a><br/>
-			Félix
+			Giancarlo Muñoz Reinoso
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -705,15 +705,15 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/gneotux">
-				<img src="https://avatars.githubusercontent.com/u/1918857?s=72&u=8f4cbfb65728e934b92868df3e2df1beabc9ffd6&v=4" width="24" alt="Avatar of gneotux"> gneotux
+			<a href="https://github.com/real-felix">
+				<img src="https://avatars.githubusercontent.com/u/18555389?s=72&u=745d1118af9971e7256940f2a28723bbb548cd72&v=4" width="24" alt="Avatar of real-felix"> real-felix
 			</a><br/>
-			Giancarlo Muñoz Reinoso
+			Félix
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>14</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -1875,31 +1875,18 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>137</td>
 		<td>
-			<a href="https://github.com/katu-bu">
-				<img src="https://avatars.githubusercontent.com/u/40366794?s=72&u=635649dd3631d42b6e6221d5c6a38581c4266555&v=4" width="24" alt="Avatar of katu-bu"> katu-bu
+			<a href="https://github.com/GuillaumeDgr">
+				<img src="https://avatars.githubusercontent.com/u/29545767?s=72&u=11b3a8912012991c56d7888daade1785971d8659&v=4" width="24" alt="Avatar of GuillaumeDgr"> GuillaumeDgr
 			</a><br/>
-			Ekaterina Agapova
+			Guillaume
 		</td>
-		<td>No Company</td>
+		<td>Devloop </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>138</td>
-		<td>
-			<a href="https://github.com/odeslad">
-				<img src="https://avatars.githubusercontent.com/u/44289847?s=72&v=4" width="24" alt="Avatar of odeslad"> odeslad
-			</a><br/>
-			Odeslad
-		</td>
-		<td>Odeslad </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>139</td>
 		<td>
 			<a href="https://github.com/polmoya">
 				<img src="https://avatars.githubusercontent.com/u/24393088?s=72&u=0cb424839a0d6d23bb462e0affd564108f8fd245&v=4" width="24" alt="Avatar of polmoya"> polmoya
@@ -1912,14 +1899,27 @@ There are `367 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/katu-bu">
+				<img src="https://avatars.githubusercontent.com/u/40366794?s=72&u=635649dd3631d42b6e6221d5c6a38581c4266555&v=4" width="24" alt="Avatar of katu-bu"> katu-bu
+			</a><br/>
+			Ekaterina Agapova
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/GuillaumeDgr">
-				<img src="https://avatars.githubusercontent.com/u/29545767?s=72&u=11b3a8912012991c56d7888daade1785971d8659&v=4" width="24" alt="Avatar of GuillaumeDgr"> GuillaumeDgr
+			<a href="https://github.com/odeslad">
+				<img src="https://avatars.githubusercontent.com/u/44289847?s=72&u=5152e90e0b2c8fd5fade5ce21bcaf79202e03a0d&v=4" width="24" alt="Avatar of odeslad"> odeslad
 			</a><br/>
-			Guillaume
+			Odeslad
 		</td>
-		<td>Devloop </td>
+		<td>Odeslad </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
