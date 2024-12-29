@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2024/12/29 10:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2024/12/29 7:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -117,7 +117,7 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>10</td>
-		<td>6529</td>
+		<td>6537</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -234,6 +234,20 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>10</td>
 		<td>
+			<a href="https://github.com/tarasowski">
+				<img src="https://avatars.githubusercontent.com/u/33748291?s=72&u=92ba441944ce75a2c6a5e54d7335536a7eff2dbc&v=4" width="24" alt="Avatar of tarasowski"> tarasowski
+			</a><br/>
+			Dimitri (Dimi) Tarasowski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>741</td>
+		<td>1158</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
 			<a href="https://github.com/lluisfranco">
 				<img src="https://avatars.githubusercontent.com/u/6582934?s=72&u=67d0b209b7cba45376babb36de38228a28ec5834&v=4" width="24" alt="Avatar of lluisfranco"> lluisfranco
 			</a><br/>
@@ -244,20 +258,6 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Ordino, Andorra</td>
 		<td>40</td>
 		<td>1158</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>
-			<a href="https://github.com/tarasowski">
-				<img src="https://avatars.githubusercontent.com/u/33748291?s=72&u=92ba441944ce75a2c6a5e54d7335536a7eff2dbc&v=4" width="24" alt="Avatar of tarasowski"> tarasowski
-			</a><br/>
-			Dimitri (Dimi) Tarasowski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>740</td>
-		<td>1157</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -383,7 +383,7 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra, Europe</td>
 		<td>65</td>
-		<td>734</td>
+		<td>736</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -397,7 +397,7 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>58</td>
-		<td>725</td>
+		<td>727</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -425,7 +425,7 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>670</td>
+		<td>673</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -467,7 +467,7 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>0</td>
-		<td>584</td>
+		<td>589</td>
 	</tr>
 	<tr>
 		<td>27</td>

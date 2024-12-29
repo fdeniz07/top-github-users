@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2024/12/29 10:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2024/12/29 7:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -237,6 +237,19 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>11</td>
 		<td>
+			<a href="https://github.com/Cinderella-Man">
+				<img src="https://avatars.githubusercontent.com/u/1019893?s=72&u=0c9b01e7656c91f5d034c8ab1f905fa32c382257&v=4" width="24" alt="Avatar of Cinderella-Man"> Cinderella-Man
+			</a><br/>
+			Kamil Skowron
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kamilskowron">kamilskowron</a></td>
+		<td>Andorra</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
 			<a href="https://github.com/facundomedica">
 				<img src="https://avatars.githubusercontent.com/u/14063057?s=72&u=c81e4349cbaf8f2aceea06bc9718720d6a2b9244&v=4" width="24" alt="Avatar of facundomedica"> facundomedica
 			</a><br/>
@@ -248,20 +261,20 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>13</td>
 		<td>
-			<a href="https://github.com/Cinderella-Man">
-				<img src="https://avatars.githubusercontent.com/u/1019893?s=72&u=0c9b01e7656c91f5d034c8ab1f905fa32c382257&v=4" width="24" alt="Avatar of Cinderella-Man"> Cinderella-Man
+			<a href="https://github.com/madmongo1">
+				<img src="https://avatars.githubusercontent.com/u/5172425?s=72&u=3e70a6b0f3e73acbca12d74eb50d99d53595598f&v=4" width="24" alt="Avatar of madmongo1"> madmongo1
 			</a><br/>
-			Kamil Skowron
+			Richard Hodges
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kamilskowron">kamilskowron</a></td>
+		<td>Sierra Global Experts </td>
+		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>80</td>
+		<td>74</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/delgod">
 				<img src="https://avatars.githubusercontent.com/u/303592?s=72&u=a0c6572ad9189d4960a3de218ffe4012a408224c&v=4" width="24" alt="Avatar of delgod"> delgod
@@ -274,7 +287,7 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/l3wi">
 				<img src="https://avatars.githubusercontent.com/u/1716917?s=72&u=6384487469a80c98506cbeade4b7221057dfb97c&v=4" width="24" alt="Avatar of l3wi"> l3wi
@@ -283,19 +296,6 @@ There are `371 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
-		<td>Andorra</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/madmongo1">
-				<img src="https://avatars.githubusercontent.com/u/5172425?s=72&u=3e70a6b0f3e73acbca12d74eb50d99d53595598f&v=4" width="24" alt="Avatar of madmongo1"> madmongo1
-			</a><br/>
-			Richard Hodges
-		</td>
-		<td>Sierra Global Experts </td>
-		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>73</td>
 	</tr>
