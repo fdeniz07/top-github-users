@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/1/22 7:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/1/22 4:07 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -354,6 +354,19 @@ There are `379 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/sgirones">
+				<img src="https://avatars.githubusercontent.com/u/597063?s=72&u=3584c79d8e81ee0cdbaac2c02745827410d4209a&v=4" width="24" alt="Avatar of sgirones"> sgirones
+			</a><br/>
+			Salvador Girones Gil
+		</td>
+		<td>@medusajs </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/castrolem">
 				<img src="https://avatars.githubusercontent.com/u/1833858?s=72&v=4" width="24" alt="Avatar of castrolem"> castrolem
 			</a><br/>
@@ -365,7 +378,7 @@ There are `379 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/gilbecao">
 				<img src="https://avatars.githubusercontent.com/u/10716392?s=72&u=1a4b8066bc0abf6ec89b8b394f7a7d8d9b6f5c3a&v=4" width="24" alt="Avatar of gilbecao"> gilbecao
@@ -373,19 +386,6 @@ There are `379 users`  in Andorra. You need at least `0 followers` to be on this
 			Gilberto Cao
 		</td>
 		<td>Solutionwebagency </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/sgirones">
-				<img src="https://avatars.githubusercontent.com/u/597063?s=72&u=3584c79d8e81ee0cdbaac2c02745827410d4209a&v=4" width="24" alt="Avatar of sgirones"> sgirones
-			</a><br/>
-			Salvador Girones Gil
-		</td>
-		<td>@medusajs </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>42</td>
