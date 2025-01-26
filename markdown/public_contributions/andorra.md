@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2025/1/26 6:07 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2025/1/26 3:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -1797,6 +1797,19 @@ There are `380 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>131</td>
 		<td>
+			<a href="https://github.com/SamuelPimenta1988">
+				<img src="https://avatars.githubusercontent.com/u/86826495?s=72&u=4c5dfd7e8b379d24c4e7acccf1d0c148458bcc61&v=4" width="24" alt="Avatar of SamuelPimenta1988"> SamuelPimenta1988
+			</a><br/>
+			Samuel Pimenta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>132</td>
+		<td>
 			<a href="https://github.com/neo2005">
 				<img src="https://avatars.githubusercontent.com/u/4352954?s=72&v=4" width="24" alt="Avatar of neo2005"> neo2005
 			</a><br/>
@@ -1808,7 +1821,7 @@ There are `380 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/mayaaie">
 				<img src="https://avatars.githubusercontent.com/u/183886764?s=72&u=3124812af2bc33678ad24744f3dfe51392e09625&v=4" width="24" alt="Avatar of mayaaie"> mayaaie
@@ -1821,7 +1834,7 @@ There are `380 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/Japtron-Sec">
 				<img src="https://avatars.githubusercontent.com/u/97803191?s=72&v=4" width="24" alt="Avatar of Japtron-Sec"> Japtron-Sec
@@ -1831,19 +1844,6 @@ There are `380 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra, Spain, World</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/SamuelPimenta1988">
-				<img src="https://avatars.githubusercontent.com/u/86826495?s=72&u=4c5dfd7e8b379d24c4e7acccf1d0c148458bcc61&v=4" width="24" alt="Avatar of SamuelPimenta1988"> SamuelPimenta1988
-			</a><br/>
-			Samuel Pimenta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
