@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" alt="Albania">
 </a>
 
-The `number of followers` of users in Albania on `2025/2/23 6:10 AM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
+The `number of followers` of users in Albania on `2025/2/23 3:11 PM UTC`. This list contains users from `Albania` and cities `Tirana` `Durrës` `Vlorë` `Elbasan` `Shkodër` `Kamëz` `Fier` `Korçë`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -167,7 +167,7 @@ There are `907 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Albania</td>
-		<td>280</td>
+		<td>282</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -349,7 +349,7 @@ There are `907 users`  in Albania. You need at least `1 followers` to be on this
 		<td>Baits Sh.p.k </td>
 		<td><a href="https://twitter.com/rinorhoxha">rinorhoxha</a></td>
 		<td>Albania, Tirane</td>
-		<td>65</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -458,19 +458,6 @@ There are `907 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/theraw">
-				<img src="https://avatars.githubusercontent.com/u/32969774?s=72&u=78eee45157c20c4f6400653f6a0f6f320c3cbe19&v=4" width="24" alt="Avatar of theraw"> theraw
-			</a><br/>
-			𝓙𝓾𝓵𝓲𝓸
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>USA (United States Of Albania)</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/detjonmataj">
 				<img src="https://avatars.githubusercontent.com/u/84277348?s=72&u=10e0cfdb3afc2055fc4396bccbd2a404eee12db0&v=4" width="24" alt="Avatar of detjonmataj"> detjonmataj
 			</a><br/>
@@ -482,7 +469,7 @@ There are `907 users`  in Albania. You need at least `1 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/OrgesKreka">
 				<img src="https://avatars.githubusercontent.com/u/22299171?s=72&u=5ee0f4cf1c804c5139a5c23afc0439f15ae839c9&v=4" width="24" alt="Avatar of OrgesKreka"> OrgesKreka
@@ -493,6 +480,19 @@ There are `907 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tirane, Albania</td>
 		<td>50</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/theraw">
+				<img src="https://avatars.githubusercontent.com/u/32969774?s=72&u=78eee45157c20c4f6400653f6a0f6f320c3cbe19&v=4" width="24" alt="Avatar of theraw"> theraw
+			</a><br/>
+			𝓙𝓾𝓵𝓲𝓸
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>USA (United States Of Albania)</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -588,19 +588,6 @@ There are `907 users`  in Albania. You need at least `1 followers` to be on this
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/ilirhushi">
-				<img src="https://avatars.githubusercontent.com/u/10850562?s=72&u=45c3f5f74ec211539163cb4054c4b1d67100c0a7&v=4" width="24" alt="Avatar of ilirhushi"> ilirhushi
-			</a><br/>
-			Ilir  Hushi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_ilir_hushi">_ilir_hushi</a></td>
-		<td>Tirana, Albania</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
 			<a href="https://github.com/ilstarno">
 				<img src="https://avatars.githubusercontent.com/u/1752451?s=72&v=4" width="24" alt="Avatar of ilstarno"> ilstarno
 			</a><br/>
@@ -610,6 +597,19 @@ There are `907 users`  in Albania. You need at least `1 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Albania</td>
 		<td>43</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/ilirhushi">
+				<img src="https://avatars.githubusercontent.com/u/10850562?s=72&u=45c3f5f74ec211539163cb4054c4b1d67100c0a7&v=4" width="24" alt="Avatar of ilirhushi"> ilirhushi
+			</a><br/>
+			Ilir  Hushi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_ilir_hushi">_ilir_hushi</a></td>
+		<td>Tirana, Albania</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>40</td>
