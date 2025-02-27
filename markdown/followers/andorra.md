@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/2/26 7:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/2/27 4:07 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -180,7 +180,7 @@ There are `382 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@chucknorris-io @tronalddump-io @bojo-ai @dogfooding<br/>@klarna<br/>@equalexperts<br/>@jugendstil-io<br/>@newstore<br/><br/></td>
 		<td><a href="https://twitter.com/matchilling">matchilling</a></td>
 		<td>Andorra</td>
-		<td>121</td>
+		<td>122</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -336,7 +336,7 @@ There are `382 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra Telecom </td>
 		<td><a href="https://twitter.com/erisco_and">erisco_and</a></td>
 		<td>Andorra</td>
-		<td>58</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -614,6 +614,19 @@ There are `382 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>40</td>
 		<td>
+			<a href="https://github.com/AdriaCarrera">
+				<img src="https://avatars.githubusercontent.com/u/23333654?s=72&u=bc6ea138bae5618279d7114adebfc02390eb58c7&v=4" width="24" alt="Avatar of AdriaCarrera"> AdriaCarrera
+			</a><br/>
+			Adrià Carrera
+		</td>
+		<td>@peersyst </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
 			<a href="https://github.com/Pau-Marin">
 				<img src="https://avatars.githubusercontent.com/u/6287958?s=72&v=4" width="24" alt="Avatar of Pau-Marin"> Pau-Marin
 			</a><br/>
@@ -623,19 +636,6 @@ There are `382 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>19</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/AdriaCarrera">
-				<img src="https://avatars.githubusercontent.com/u/23333654?s=72&u=bc6ea138bae5618279d7114adebfc02390eb58c7&v=4" width="24" alt="Avatar of AdriaCarrera"> AdriaCarrera
-			</a><br/>
-			Adrià Carrera
-		</td>
-		<td>@peersyst </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>18</td>
 	</tr>
 	<tr>
 		<td>42</td>
