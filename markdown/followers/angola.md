@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg" alt="Angola">
 </a>
 
-The `number of followers` of users in Angola on `2025/3/1 8:11 PM UTC`. This list contains users from `Angola` and cities `Luanda` `Cabinda ` `Huambo` `Lubango ` `Kuito` `Malanje ` `Lobito` `Benguela`.
+The `number of followers` of users in Angola on `2025/3/2 5:12 AM UTC`. This list contains users from `Angola` and cities `Luanda` `Cabinda ` `Huambo` `Lubango ` `Kuito` `Malanje ` `Lobito` `Benguela`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -198,6 +198,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/manuelcunga">
+				<img src="https://avatars.githubusercontent.com/u/52803570?s=72&u=d2b923ca452ed908064ff485b3e2042d87af4301&v=4" width="24" alt="Avatar of manuelcunga"> manuelcunga
+			</a><br/>
+			Lázaro Manuel Cunga
+		</td>
+		<td>Home Office </td>
+		<td>No Twitter Username</td>
+		<td>Angola/Luanda</td>
+		<td>200</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/trupakufi">
 				<img src="https://avatars.githubusercontent.com/u/72455038?s=72&u=995c4305a3ebe20f2c0bdc7a3026367c4abedc2c&v=4" width="24" alt="Avatar of trupakufi"> trupakufi
 			</a><br/>
@@ -207,19 +220,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td><a href="https://twitter.com/MrioVarela4">MrioVarela4</a></td>
 		<td>Luanda, Angola</td>
 		<td>200</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
-			<a href="https://github.com/manuelcunga">
-				<img src="https://avatars.githubusercontent.com/u/52803570?s=72&u=d2b923ca452ed908064ff485b3e2042d87af4301&v=4" width="24" alt="Avatar of manuelcunga"> manuelcunga
-			</a><br/>
-			Lázaro Manuel Cunga
-		</td>
-		<td>Home Office </td>
-		<td>No Twitter Username</td>
-		<td>Angola/Luanda</td>
-		<td>199</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -544,7 +544,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Angola </td>
-		<td>87</td>
+		<td>88</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1082,6 +1082,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>76</td>
 		<td>
+			<a href="https://github.com/git-marcopitra">
+				<img src="https://avatars.githubusercontent.com/u/59171412?s=72&u=6c75516ceb0a18e7d068a9a52e03db3a806b8cd3&v=4" width="24" alt="Avatar of git-marcopitra"> git-marcopitra
+			</a><br/>
+			Marco Pitra
+		</td>
+		<td>Interest Protocol </td>
+		<td><a href="https://twitter.com/marcopitra">marcopitra</a></td>
+		<td>Luanda, Angola</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
 			<a href="https://github.com/Dumilson">
 				<img src="https://avatars.githubusercontent.com/u/59088737?s=72&u=b14201513989e50e84ae8d508e9ab5e098e18bc4&v=4" width="24" alt="Avatar of Dumilson"> Dumilson
 			</a><br/>
@@ -1093,7 +1106,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/antonio-nicolau">
 				<img src="https://avatars.githubusercontent.com/u/67912928?s=72&u=bbb76b9e6de524cc36f3e75d16b73af4817a227a&v=4" width="24" alt="Avatar of antonio-nicolau"> antonio-nicolau
@@ -1106,7 +1119,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/renaldodev">
 				<img src="https://avatars.githubusercontent.com/u/48330827?s=72&u=4730ef003f39c25c62da0f4922a4cd2f31e117d9&v=4" width="24" alt="Avatar of renaldodev"> renaldodev
@@ -1117,19 +1130,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td><a href="https://twitter.com/renaldodev">renaldodev</a></td>
 		<td>Luanda, Angola</td>
 		<td>51</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/git-marcopitra">
-				<img src="https://avatars.githubusercontent.com/u/59171412?s=72&u=6c75516ceb0a18e7d068a9a52e03db3a806b8cd3&v=4" width="24" alt="Avatar of git-marcopitra"> git-marcopitra
-			</a><br/>
-			Marco Pitra
-		</td>
-		<td>Interest Protocol </td>
-		<td><a href="https://twitter.com/marcopitra">marcopitra</a></td>
-		<td>Luanda, Angola</td>
-		<td>50</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1407,6 +1407,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>101</td>
 		<td>
+			<a href="https://github.com/ConstantinoMundo">
+				<img src="https://avatars.githubusercontent.com/u/52706723?s=72&u=ecdb931202e0c1bdcf06530dd810efc7c3ab7d06&v=4" width="24" alt="Avatar of ConstantinoMundo"> ConstantinoMundo
+			</a><br/>
+			Constantino Mundo
+		</td>
+		<td>@digitalizando </td>
+		<td>No Twitter Username</td>
+		<td>Luanda-Angola</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
 			<a href="https://github.com/bigmarselo">
 				<img src="https://avatars.githubusercontent.com/u/77365960?s=72&u=935d1cae20a2c5f774353aaa3fe27f090f8c1b7e&v=4" width="24" alt="Avatar of bigmarselo"> bigmarselo
 			</a><br/>
@@ -1416,19 +1429,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Angola</td>
 		<td>43</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
-			<a href="https://github.com/ConstantinoMundo">
-				<img src="https://avatars.githubusercontent.com/u/52706723?s=72&u=ecdb931202e0c1bdcf06530dd810efc7c3ab7d06&v=4" width="24" alt="Avatar of ConstantinoMundo"> ConstantinoMundo
-			</a><br/>
-			Constantino Mundo
-		</td>
-		<td>@digitalizando </td>
-		<td>No Twitter Username</td>
-		<td>Luanda-Angola</td>
-		<td>42</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -2070,6 +2070,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>152</td>
 		<td>
+			<a href="https://github.com/manuelguengui">
+				<img src="https://avatars.githubusercontent.com/u/140069593?s=72&u=cc0e5639778e166466814dc0b90b303786d9b245&v=4" width="24" alt="Avatar of manuelguengui"> manuelguengui
+			</a><br/>
+			Manuel Guengui
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Angola-Luanda-Talatona</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
 			<a href="https://github.com/uhmiller">
 				<img src="https://avatars.githubusercontent.com/u/33737689?s=72&u=89917b99c78de4b5223c4fee809724a96f2f9740&v=4" width="24" alt="Avatar of uhmiller"> uhmiller
 			</a><br/>
@@ -2081,7 +2094,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/bernardo630">
 				<img src="https://avatars.githubusercontent.com/u/187579842?s=72&u=d579b5472ec67635ee9f5405460d95feccbc2547&v=4" width="24" alt="Avatar of bernardo630"> bernardo630
@@ -2094,7 +2107,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/ravelinodecastro">
 				<img src="https://avatars.githubusercontent.com/u/43408517?s=72&u=9e0ec4ac327671fd0f11750067eb2dba8c815fd0&v=4" width="24" alt="Avatar of ravelinodecastro"> ravelinodecastro
@@ -2107,7 +2120,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/felixdomingos1">
 				<img src="https://avatars.githubusercontent.com/u/97100392?s=72&u=009b8da8dd8923cffe8a9e5a4b1813bd40d9c9fc&v=4" width="24" alt="Avatar of felixdomingos1"> felixdomingos1
@@ -2120,7 +2133,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/Edhotz">
 				<img src="https://avatars.githubusercontent.com/u/95288145?s=72&u=b0d8d8b9b1ec74f72ebbf4c80527db7bf48b6881&v=4" width="24" alt="Avatar of Edhotz"> Edhotz
@@ -2133,7 +2146,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/rubem007">
 				<img src="https://avatars.githubusercontent.com/u/57395962?s=72&v=4" width="24" alt="Avatar of rubem007"> rubem007
@@ -2146,7 +2159,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/RomarioNzenguele">
 				<img src="https://avatars.githubusercontent.com/u/85894361?s=72&u=804182651e7453de6d64f1280e047df5bd10da02&v=4" width="24" alt="Avatar of RomarioNzenguele"> RomarioNzenguele
@@ -2159,7 +2172,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/AdobeCss">
 				<img src="https://avatars.githubusercontent.com/u/113042646?s=72&u=09b02bfdd72fd640dd04d605653403270a5099e8&v=4" width="24" alt="Avatar of AdobeCss"> AdobeCss
@@ -2172,7 +2185,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/juliaokataleko">
 				<img src="https://avatars.githubusercontent.com/u/50219139?s=72&u=c8b5d5d604af8279e319c794b46b59a6f734c881&v=4" width="24" alt="Avatar of juliaokataleko"> juliaokataleko
@@ -2182,19 +2195,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/juliaokataleko">juliaokataleko</a></td>
 		<td>Benguela, Angola</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>161</td>
-		<td>
-			<a href="https://github.com/manuelguengui">
-				<img src="https://avatars.githubusercontent.com/u/140069593?s=72&u=cc0e5639778e166466814dc0b90b303786d9b245&v=4" width="24" alt="Avatar of manuelguengui"> manuelguengui
-			</a><br/>
-			Manuel Guengui
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Angola-Luanda-Talatona</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -2356,6 +2356,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>174</td>
 		<td>
+			<a href="https://github.com/DumiJDev">
+				<img src="https://avatars.githubusercontent.com/u/72232653?s=72&u=afb2f460da66e62ca91609ffa85b50959e98c9bd&v=4" width="24" alt="Avatar of DumiJDev"> DumiJDev
+			</a><br/>
+			Dumildes Paulo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/PauloDumildes">PauloDumildes</a></td>
+		<td>Luanda, Angola</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
 			<a href="https://github.com/Lizandro12">
 				<img src="https://avatars.githubusercontent.com/u/88685339?s=72&u=c488da99f21b2cc4de789cb079fad71e07f5a211&v=4" width="24" alt="Avatar of Lizandro12"> Lizandro12
 			</a><br/>
@@ -2367,7 +2380,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/Adriano-Paulo2910">
 				<img src="https://avatars.githubusercontent.com/u/133569723?s=72&u=949d450caecde009caf924a284e432e94b8a9efc&v=4" width="24" alt="Avatar of Adriano-Paulo2910"> Adriano-Paulo2910
@@ -2380,7 +2393,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/rniochy">
 				<img src="https://avatars.githubusercontent.com/u/44089765?s=72&u=3c8b18b242109c5e3d88cf4ad16c0b926feec609&v=4" width="24" alt="Avatar of rniochy"> rniochy
@@ -2393,7 +2406,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/azriel90github">
 				<img src="https://avatars.githubusercontent.com/u/114200974?s=72&u=8cee6fffd002dc1256d9047477c6c8149e1f3db3&v=4" width="24" alt="Avatar of azriel90github"> azriel90github
@@ -2403,19 +2416,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>Lunar Corporation </td>
 		<td>No Twitter Username</td>
 		<td>Samba\ Luanda</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/DumiJDev">
-				<img src="https://avatars.githubusercontent.com/u/72232653?s=72&u=afb2f460da66e62ca91609ffa85b50959e98c9bd&v=4" width="24" alt="Avatar of DumiJDev"> DumiJDev
-			</a><br/>
-			Dumildes Paulo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/PauloDumildes">PauloDumildes</a></td>
-		<td>Luanda, Angola</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -3045,19 +3045,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>227</td>
 		<td>
-			<a href="https://github.com/brunovivaldodev">
-				<img src="https://avatars.githubusercontent.com/u/41685796?s=72&u=864213a80146a43bc5c525c5e56cb6becf984675&v=4" width="24" alt="Avatar of brunovivaldodev"> brunovivaldodev
-			</a><br/>
-			Bruno Vivaldo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/brunovivaldodev">brunovivaldodev</a></td>
-		<td>Angola/Luanda</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>228</td>
-		<td>
 			<a href="https://github.com/mardoqueudickson1">
 				<img src="https://avatars.githubusercontent.com/u/68653885?s=72&u=8dd098fc0ccd91e4202c302fc2b0c6995f9c320c&v=4" width="24" alt="Avatar of mardoqueudickson1"> mardoqueudickson1
 			</a><br/>
@@ -3066,6 +3053,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>Queu Tech </td>
 		<td>No Twitter Username</td>
 		<td>Africa - Angola</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
+			<a href="https://github.com/brunovivaldodev">
+				<img src="https://avatars.githubusercontent.com/u/41685796?s=72&u=864213a80146a43bc5c525c5e56cb6becf984675&v=4" width="24" alt="Avatar of brunovivaldodev"> brunovivaldodev
+			</a><br/>
+			Bruno Vivaldo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/brunovivaldodev">brunovivaldodev</a></td>
+		<td>Angola/Luanda</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3864,6 +3864,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>290</td>
 		<td>
+			<a href="https://github.com/JoelVigario">
+				<img src="https://avatars.githubusercontent.com/u/102935482?s=72&u=abd866374387757400f3ec158ca739b52b15c401&v=4" width="24" alt="Avatar of JoelVigario"> JoelVigario
+			</a><br/>
+			Joel Vigário
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Angola</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>291</td>
+		<td>
 			<a href="https://github.com/GeekStrongs">
 				<img src="https://avatars.githubusercontent.com/u/14416971?s=72&u=949d410c1471325e067d86b7be46289879afddbf&v=4" width="24" alt="Avatar of GeekStrongs"> GeekStrongs
 			</a><br/>
@@ -3875,7 +3888,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/digitalizando">
 				<img src="https://avatars.githubusercontent.com/u/101349687?s=72&u=c5a7761ae67b52c2f9c3f10e9375400c2e4ffeec&v=4" width="24" alt="Avatar of digitalizando"> digitalizando
@@ -3888,7 +3901,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/DanielKitanaxiFilipe">
 				<img src="https://avatars.githubusercontent.com/u/42974630?s=72&u=7ebf1354d9c69a6f0e02ca7ab3a011a3e3020690&v=4" width="24" alt="Avatar of DanielKitanaxiFilipe"> DanielKitanaxiFilipe
@@ -3901,7 +3914,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/Mayele18">
 				<img src="https://avatars.githubusercontent.com/u/113647602?s=72&u=6fdbd89fdacfd278192d61b65f4a0b5951724bfc&v=4" width="24" alt="Avatar of Mayele18"> Mayele18
@@ -3914,7 +3927,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/Katumbela">
 				<img src="https://avatars.githubusercontent.com/u/88532376?s=72&u=8e134c6ed59730c257a89e85c9b12d5b47d7e9fb&v=4" width="24" alt="Avatar of Katumbela"> Katumbela
@@ -3927,7 +3940,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/joelmar2011140">
 				<img src="https://avatars.githubusercontent.com/u/85032428?s=72&u=f19ac61ab247ddb010e4f64bec8d55316d97320d&v=4" width="24" alt="Avatar of joelmar2011140"> joelmar2011140
@@ -3940,7 +3953,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/antonioyosica">
 				<img src="https://avatars.githubusercontent.com/u/14064818?s=72&u=601023022508add7ed6a02fcb7c35fedf2914792&v=4" width="24" alt="Avatar of antonioyosica"> antonioyosica
@@ -3953,7 +3966,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/Tchial0">
 				<img src="https://avatars.githubusercontent.com/u/96700865?s=72&u=eaf0337fd0187d794f8e003ee96ebe9fea1e188b&v=4" width="24" alt="Avatar of Tchial0"> Tchial0
@@ -3966,7 +3979,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/domingosdeeulariadumba">
 				<img src="https://avatars.githubusercontent.com/u/110714056?s=72&u=ef06ab53e16a7b3e77a047e2c0960b1be6f6dcfc&v=4" width="24" alt="Avatar of domingosdeeulariadumba"> domingosdeeulariadumba
@@ -3979,7 +3992,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/matutaj">
 				<img src="https://avatars.githubusercontent.com/u/74857192?s=72&u=ec58e9362e8bd21cc30a420db08cadfc2a7be55e&v=4" width="24" alt="Avatar of matutaj"> matutaj
@@ -3992,7 +4005,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/XavierCabeto">
 				<img src="https://avatars.githubusercontent.com/u/68341135?s=72&v=4" width="24" alt="Avatar of XavierCabeto"> XavierCabeto
@@ -4005,7 +4018,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/divaldohelder08">
 				<img src="https://avatars.githubusercontent.com/u/134173461?s=72&u=c758972970186fa304a03513d65ea353e7032fd4&v=4" width="24" alt="Avatar of divaldohelder08"> divaldohelder08
@@ -4018,7 +4031,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/odsantos">
 				<img src="https://avatars.githubusercontent.com/u/8807117?s=72&u=0dff2e17cc0ef77f366764751306952717fcad55&v=4" width="24" alt="Avatar of odsantos"> odsantos
@@ -4031,7 +4044,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Jairo-Domingos-Buto">
 				<img src="https://avatars.githubusercontent.com/u/101554996?s=72&v=4" width="24" alt="Avatar of Jairo-Domingos-Buto"> Jairo-Domingos-Buto
@@ -4044,7 +4057,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/EduardoArmandoKubanza07">
 				<img src="https://avatars.githubusercontent.com/u/130542122?s=72&u=f6bf12f2a1ed3e68695c50dd4c7e37e506effc07&v=4" width="24" alt="Avatar of EduardoArmandoKubanza07"> EduardoArmandoKubanza07
@@ -4057,7 +4070,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/Helio-Mariel">
 				<img src="https://avatars.githubusercontent.com/u/127893347?s=72&u=1b9f90a1252d47859044a94041a7e7484726305c&v=4" width="24" alt="Avatar of Helio-Mariel"> Helio-Mariel
@@ -4070,7 +4083,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/usandopythonjoao">
 				<img src="https://avatars.githubusercontent.com/u/52241312?s=72&u=cf0c6697e9ddcaec623437c3b37e7a9629083775&v=4" width="24" alt="Avatar of usandopythonjoao"> usandopythonjoao
@@ -4083,7 +4096,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/drafonsopena">
 				<img src="https://avatars.githubusercontent.com/u/72225601?s=72&u=9f0cc6a4d09abdf76d254c72b15239b384cd642d&v=4" width="24" alt="Avatar of drafonsopena"> drafonsopena
@@ -4091,19 +4104,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 			The Archi-Tech
 		</td>
 		<td>4evergreen </td>
-		<td>No Twitter Username</td>
-		<td>Angola</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>308</td>
-		<td>
-			<a href="https://github.com/JoelVigario">
-				<img src="https://avatars.githubusercontent.com/u/102935482?s=72&u=abd866374387757400f3ec158ca739b52b15c401&v=4" width="24" alt="Avatar of JoelVigario"> JoelVigario
-			</a><br/>
-			Joel Vigário
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Angola</td>
 		<td>17</td>
@@ -4905,7 +4905,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>370</td>
 		<td>
 			<a href="https://github.com/DelcioCoder">
-				<img src="https://avatars.githubusercontent.com/u/146377985?s=72&u=ec318c896e5c12e1ff7b56c2fc097b0aa9fa1aec&v=4" width="24" alt="Avatar of DelcioCoder"> DelcioCoder
+				<img src="https://avatars.githubusercontent.com/u/146377985?s=72&u=a736286a44c85da83a1c60aa2039c33ee58ee1a3&v=4" width="24" alt="Avatar of DelcioCoder"> DelcioCoder
 			</a><br/>
 			No Name
 		</td>
@@ -7647,19 +7647,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>581</td>
 		<td>
-			<a href="https://github.com/samurai-ronin">
-				<img src="https://avatars.githubusercontent.com/u/22138401?s=72&u=dfd41dd1e72af6f41a1298d0c84a36e07bb93567&v=4" width="24" alt="Avatar of samurai-ronin"> samurai-ronin
-			</a><br/>
-			Mauro Tarquino
-		</td>
-		<td>Tshoot </td>
-		<td>No Twitter Username</td>
-		<td>Luanda</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>582</td>
-		<td>
 			<a href="https://github.com/dulciobernardo77">
 				<img src="https://avatars.githubusercontent.com/u/140249019?s=72&u=d672f22c78746a69c8c92ea29324f0688ae0accb&v=4" width="24" alt="Avatar of dulciobernardo77"> dulciobernardo77
 			</a><br/>
@@ -7668,6 +7655,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td> Luanda, Angola</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/samurai-ronin">
+				<img src="https://avatars.githubusercontent.com/u/22138401?s=72&u=dfd41dd1e72af6f41a1298d0c84a36e07bb93567&v=4" width="24" alt="Avatar of samurai-ronin"> samurai-ronin
+			</a><br/>
+			Mauro Tarquino
+		</td>
+		<td>Tshoot </td>
+		<td>No Twitter Username</td>
+		<td>Luanda</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10234,6 +10234,19 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 	<tr>
 		<td>780</td>
 		<td>
+			<a href="https://github.com/claudiobentodala">
+				<img src="https://avatars.githubusercontent.com/u/190611951?s=72&u=8c7fa34ef0ffc9f79a0b6bbaf7031096c4ae512f&v=4" width="24" alt="Avatar of claudiobentodala"> claudiobentodala
+			</a><br/>
+			Cláudio_Bento_Dala
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/claudio_dala_">claudio_dala_</a></td>
+		<td>ANGOLA-LUANDA</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
 			<a href="https://github.com/CoderVasco">
 				<img src="https://avatars.githubusercontent.com/u/117346435?s=72&u=3d691a2502dda9573591c658ac5abbbbe6321272&v=4" width="24" alt="Avatar of CoderVasco"> CoderVasco
 			</a><br/>
@@ -10245,7 +10258,7 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/JoaoPaulo29">
 				<img src="https://avatars.githubusercontent.com/u/78809245?s=72&u=442a25547e757bdcaf1f9af0c17db3dc420194a8&v=4" width="24" alt="Avatar of JoaoPaulo29"> JoaoPaulo29
@@ -10255,19 +10268,6 @@ There are `955 users`  in Angola. You need at least `4 followers` to be on this 
 		<td>Edqea </td>
 		<td>No Twitter Username</td>
 		<td>Angola/Luanda/Cidade universitária</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>782</td>
-		<td>
-			<a href="https://github.com/claudiobentodala">
-				<img src="https://avatars.githubusercontent.com/u/190611951?s=72&u=8c7fa34ef0ffc9f79a0b6bbaf7031096c4ae512f&v=4" width="24" alt="Avatar of claudiobentodala"> claudiobentodala
-			</a><br/>
-			Cláudio_Bento_Dala
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/claudio_dala_">claudio_dala_</a></td>
-		<td>ANGOLA-LUANDA</td>
 		<td>5</td>
 	</tr>
 	<tr>
