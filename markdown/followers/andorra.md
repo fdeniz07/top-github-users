@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/3/2 4:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/3/2 1:08 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -193,7 +193,7 @@ There are `382 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@labscommunity, @othent, @arconnectio </td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra</td>
-		<td>118</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1475,7 +1475,7 @@ There are `382 users`  in Andorra. You need at least `0 followers` to be on this
 			<a href="https://github.com/MigueldeHaroce">
 				<img src="https://avatars.githubusercontent.com/u/106353927?s=72&u=940ec65e62021aceedd76e51c9abfdde4f1e8451&v=4" width="24" alt="Avatar of MigueldeHaroce"> MigueldeHaroce
 			</a><br/>
-			Mijael Jessurun
+			Miguel
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
