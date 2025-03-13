@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/3/13 1:34 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/3/13 10:07 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -1251,19 +1251,6 @@ There are `384 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>89</td>
 		<td>
-			<a href="https://github.com/janniten">
-				<img src="https://avatars.githubusercontent.com/u/33020901?s=72&u=71aed1d3c856991f27f60268fd3ae8b6e6ef3db7&v=4" width="24" alt="Avatar of janniten"> janniten
-			</a><br/>
-			Anabella Cristaldi
-		</td>
-		<td>Andorra Telecom </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
 			<a href="https://github.com/JuanMoroteP">
 				<img src="https://avatars.githubusercontent.com/u/45626958?s=72&u=ba4fce81772db14da002b613f8909882a93991f0&v=4" width="24" alt="Avatar of JuanMoroteP"> JuanMoroteP
 			</a><br/>
@@ -1272,6 +1259,19 @@ There are `384 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Institut Puig Castellar </td>
 		<td>No Twitter Username</td>
 		<td>Santa Coloma de Gramanet</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/janniten">
+				<img src="https://avatars.githubusercontent.com/u/33020901?s=72&u=71aed1d3c856991f27f60268fd3ae8b6e6ef3db7&v=4" width="24" alt="Avatar of janniten"> janniten
+			</a><br/>
+			Anabella Cristaldi
+		</td>
+		<td>Andorra Telecom </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>5</td>
 	</tr>
 	<tr>
