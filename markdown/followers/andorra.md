@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2025/4/10 2:07 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2025/4/10 11:07 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/fdeniz07/top-github-users).
 
@@ -147,7 +147,7 @@ There are `386 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>4</td>
 		<td>
 			<a href="https://github.com/devictoribero">
-				<img src="https://avatars.githubusercontent.com/u/16169890?s=72&u=4578e1638499eb7fc17f7eecb1ff498811234c15&v=4" width="24" alt="Avatar of devictoribero"> devictoribero
+				<img src="https://avatars.githubusercontent.com/u/16169890?s=72&u=e15b7a1cc639176e83b153883be2d83a8988b582&v=4" width="24" alt="Avatar of devictoribero"> devictoribero
 			</a><br/>
 			Victor Ribero
 		</td>
